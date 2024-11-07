@@ -5,7 +5,21 @@
 ##### My curious nature has led me towards this career change with an eagerness to engage in the world of data analytics.  I have completed my certification through CareerFoundry, and I'm excited to put my skills to work!.  
 
 ##### Analytical Skills:  Data Cleaning & Preparation
-* Exploratory & Descriptive  * Analytics  * Integrating & Transforming  * Data  * Querying, Filtering, Sorting, & Grouping  * Statistical Analysis, including Linear Regression  * Writing Technical  * Documentation & Reports  * Data Visualizations & Dashboards  * Machine Learning  * Problem Solving  * Communication/Collaboration  * Presentation Skills  * Organization  * Spanish Proficiency
+* Exploratory & Descriptive
+* Analytics
+* Integrating & Transforming 
+* Data
+* Querying, Filtering, Sorting, & Grouping
+* Statistical Analysis, including Linear Regression
+* Writing Technical
+* Documentation & Reports
+* Data Visualizations & Dashboards
+* Machine Learning
+* Problem Solving
+* Communication/Collaboration
+* Presentation Skills
+* Organization
+* Spanish Proficiency
 
 ## Projects:
 
