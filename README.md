@@ -47,3 +47,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 - Visualizations in Python matplotlib, Seaborn, Scipy (line chart, bar chart, histogram, pie chart, scatterplot, stacked bar chart)
 - Interpret Results and Summarize findings/insights.
 - Reporting in Excel
+
+![Insights](assets/Instacart insights 1.png)
+
+
