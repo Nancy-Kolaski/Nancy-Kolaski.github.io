@@ -20,5 +20,11 @@
 * Organization
 * Spanish Proficiency
 
+##### Tools:
+* SQL
+* Python
+* Excel
+* Tableau
+
 ## Projects:
 
