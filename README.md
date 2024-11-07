@@ -29,4 +29,19 @@
 * Tableau
 
 ## Projects:
+#### **Instacart Basket Analysis**
+* ![Instacart Basket Analysis](assets/instacart.jpeg)
+  * Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. This project from the CareerFoundry coursework was geared to introduce python to data analyst students.
+  * Goal: Assist Instacart stakeholders to understand the variety of customers in their database and their purchasing behaviors in order to develop targeted marketing strategies. The goal for this analysis is to ensure that Instacart targets the right customer profile with the appropriate products. They have specifically requested data regarding busiest times of day/days of the week, price range groupings on their products in order to simplify them, and departments/products that are most popular (most products sold).
+- Python/Anaconda
+- Data Cleaning and data wrangling
+- Deriving variables, merging
+- Grouping datasets
+- Aggregating data
+- Population flows
+- Visualizations in Python matplotlib, Seaborn, Scipy (line chart, bar chart, histogram, pie chart, scatterplot, stacked bar chart)
+- Interpret Results and Summarize findings/insights.
+- Reporting in Excel
+
+##### “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on [4/20/24].  Note: the customer data was fabricated for the learning purposes of this course.
 
