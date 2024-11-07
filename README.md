@@ -1,6 +1,7 @@
 #### Data Analyst                        
-![About me](assets/me3.png)                              [Resume](https://<username>.github.io/<reponame>/<path/to/kolaski-Nancy-resume.pdf)
-[View my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski_Nancy-resume.pdf)
+![About me](assets/me3.png)                            
+[View my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/kolaski_Nancy-resume.pdf)
+[View  my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski-Nancy-resume.pdf)
 
 
 
