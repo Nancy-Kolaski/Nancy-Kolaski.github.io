@@ -3,7 +3,7 @@
 
 [View  my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski-Nancy-resume.pdf)
 
-
+[View my complete portfolio](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/NK%20Data%20Analytics%20Portfolio%20(6).pdf)
 
 
 
