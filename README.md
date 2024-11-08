@@ -59,6 +59,9 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 [View my ClimateWins Project](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/Projects!/ClimateWins%20Project.pdf)
 
+[View my GameCo Project](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/Projects!/GameCo%20Financial%20Analysis%20Project.pdf)
+
+
 
 
 
