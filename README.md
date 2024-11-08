@@ -54,7 +54,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 - Interpret Results and Summarize findings/insights.
 - Reporting in Excel
 
- [View Instacat Project](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/Projects!/Instacart%20Project.pdf)
+ [View my Instacart Project](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/Projects!/Instacart%20Project.pdf)
 
 
 
