@@ -1,9 +1,16 @@
 #### Data Analyst                        
-![About me](assets/me3.png)                            
+![About me](assets/me3.png)     
+nancykolaski@gmail.com
 
 [View  my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski-Nancy-resume.pdf)
 
+[Visit my LinkedIn profile](https://www.linkedin.com/in/nancy-kolaski-040b222b0/)
+
 [View my complete portfolio](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/NK%20Data%20Analytics%20Portfolio%20(6).pdf)
+
+
+
+
 
 
 
