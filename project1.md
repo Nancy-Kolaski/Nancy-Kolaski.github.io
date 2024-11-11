@@ -1,8 +1,12 @@
+# Instacart Baket Analysis
+[GitHub Repository](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/Instacart%20Basket%20Analysis/Instacart_Presentation.pdf)
+
+
+
 <img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
-# Instacart Basket Analysis
 
-This analysis for Instacart was performed in order to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth.
+This analysis for Instacart was performed in order for stakeholders to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth by answering the key questions below.
 
 ## Key Questions
 - What are the busiest days of the week and hours of the day? 
