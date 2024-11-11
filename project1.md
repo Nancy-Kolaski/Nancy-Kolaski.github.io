@@ -7,6 +7,12 @@
 
 
 This analysis for Instacart was performed in order for stakeholders to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth by answering the key questions below.
+## Data link 
+
+
+![image](https://github.com/user-attachments/assets/b0ad7780-22d3-45e3-b8e1-d8a2e9cfce49)
+
+
 
 ## Key Questions
 - What are the busiest days of the week and hours of the day? 
@@ -14,7 +20,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - How can product price tags by simplified into price range groupings to help Marketing and Sales efforts?
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
 
-#### **Skills:**
+## **Skills:**
 - Python/Anaconda
 - Data Cleaning and data wrangling
 - Deriving variables, merging
