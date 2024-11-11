@@ -62,6 +62,16 @@ The top 10 products ordered: ranked with regular bananas at the top, followed by
 
 <img src="assets/Insights_2.png" alt="Insights 2" style="width: 700px; height: auto;">
 
+#
+* The **30s/40s** age group tends to rank the highest in all aspects of customers, according to the first bar chart.
+They make up: 1) the most **regular** customers, 2) majority of **new** customers, & 3) majority of **loyal** customers.  
+*Most customers have **families** ( pie chart).
+* The next bar chart shows that **Southern Regions** generate the most of Instacart's spendings.  This is followed by Western Regions, then Midwest Regions, with Northeast spending the least.  This pattern is the same for both groups of people (high and low spenders)
+* These final horizontal bar charts are broken up by regions, showing the **top 5 departments for that region**.  All of them show a similar distribution of department preference in the following order: **1) Frozen, 2) Beverages, 3) Snacks, 4) Dairy Eggs, 5) Produce**
+
+<img src="assets/Insights_3.png" alt="Insights 3" style="width: 700px; height: auto;">
+
+
 # Recommendations Review:
 * Increase Ads during mid week (Tuesdays & Wednesdays)
 * Schedule Ads between 12pm and 3pm, the busiest hours for placing orders.
