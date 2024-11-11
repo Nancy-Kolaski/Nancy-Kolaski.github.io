@@ -34,7 +34,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - Interpret Results and Summarize findings/insights.
 - Reporting in Excel
 
---------
+------------------------
   
 ## **Insights:**
 
@@ -46,7 +46,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 <img src="assets/Insights_1a.png" alt="Insights 1a" style="width: 700px; height: auto;">
 
--------
+------------------------
 
 * There is a correlation between **age** and **spending power**, with a definitive **jump in income at age 40**, from **$400,000 to $600,000**.
 
@@ -56,7 +56,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 <img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;">
 
--------
+------------------------
  
 * **Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
 
@@ -64,10 +64,11 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 * The **top 10 products** ordered: ranked with **regular bananas** at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
-<img src="assets/Products_top.png" alt="Products_top" style="width: 600px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 400px; height: auto;">
+<img src="assets/Products_top.png" alt="Products_top" style="width: 400px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 300px; height: auto;">
 
 
-#
+------------------------
+
 * The **30s/40s** age group tends to rank the highest in all aspects of customers, according to the first bar chart.
 They make up: 1) the most **regular** customers, 2) majority of **new** customers, & 3) majority of **loyal** customers.  
 *Most customers have **families** ( pie chart).
@@ -76,7 +77,7 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 
 <img src="assets/pie_bar.png" alt="pie_bar" style="width: 700px; height: auto;"> <img src="assets/top5_region.png" alt="Top 5" style="width: 250px; height: auto;">
 
--------
+------------------------
 
 
 # Recommendations Review:
@@ -92,7 +93,7 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 * Recommend targeting 30s-40s, young family groups in advertisements - busy lifestyles (prepared food, quick snacks, food on-the-go)
 * Recommend increasing advertisements in southern regions to maintain integrity of their higher sales, as well as promotion of Instacart to the other regions to gain more customers (keeping in mind these variables and target populations in the types of Ads used.
 
---------
+------------------------
 
 
 # Challenges:
