@@ -64,7 +64,8 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 * The **top 10 products** ordered: ranked with **regular bananas** at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
-<img src="assets/Insights_2.png" alt="Insights 2" style="width: 700px; height: auto;">
+<img src="assets/Products_top.png" alt="Products_top" style="width: 600px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 400px; height: auto;">
+
 
 #
 * The **30s/40s** age group tends to rank the highest in all aspects of customers, according to the first bar chart.
