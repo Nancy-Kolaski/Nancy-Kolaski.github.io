@@ -1,10 +1,8 @@
 #### Data Analyst 
 
-# About Me
+# About Me  
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 300px; height: auto;">
-
-
 
 
 
@@ -22,6 +20,7 @@ nancykolaski@gmail.com
 
 [View my complete portfolio](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/NK%20Data%20Analytics%20Portfolio%20(6).pdf)
 
+[![GitHub Logo](https://github.com/Nancy-Kolaski)
 
 
 
@@ -33,28 +32,65 @@ nancykolaski@gmail.com
 
 ##### My curious nature has led me towards this career change with an eagerness to engage in the world of data analytics.  I have completed my certification through CareerFoundry, and I'm excited to put my skills to work!.  Scroll down to see my projects and skill set.
 
-### Analytical Skills:  Data Cleaning & Preparation
-* Exploratory & Descriptive    
-* Analytics
-* Integrating & Transforming 
-* Data
-* Querying, Filtering, Sorting, & Grouping
-* Statistical Analysis, including Linear Regression
-* Writing Technical
-* Documentation & Reports
-* Data Visualizations & Dashboards
-* Machine Learning
-* Problem Solving
-* Communication/Collaboration
-* Presentation Skills
-* Organization
-* Spanish Proficiency
 
+
+
+### Analytical Skills: Data Cleaning & Preparation
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Data Cleaning & Preparation</li>
+        <li>Exploratory & Descriptive Analytics</li>
+        <li>Integrating & Transforming Data</li>
+        <li>Querying, Filtering, Sorting, & Grouping</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Statistical Analysis, Linear Regression</li>
+        <li>Writing Technical Documentation & Reports</li>
+        <li>Data Visualizations & Dashboards</li>
+        <li>Machine Learning</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+### Professional Skills 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Problem Solving</li>
+        <li>Communication/Collaboration</li>
+        <li>Presentation Skills</li>
+        <li>Organization</li>
+        <li>Spansh Proficiency</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+  
+
+
+       
 ### Tools:
-* SQL
-* Python
-* Excel
-* Tableau
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>Excel</li>
+        <li>Tableau</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 # Projects:
 #### **Instacart Basket Analysis**
