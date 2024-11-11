@@ -25,16 +25,12 @@ This analysis for Instacart was performed in order to better understand customer
 
 <img src="assets/Insta_insights1.png" alt="Insights 1" style="width: 700px; height: auto;">
 
-![Insta Insights 1](assets/Insta_insights1.png)
+<img src="assets/Insta_insights2.png" alt="Insights 2" style="width: 700px; height: auto;">
 
-#
-![Insta Insights 2](assets/Insta_insights2.png)
+<img src="assets/Insta_insights3.png" alt="Insights 3" style="width: 700px; height: auto;">
 
-#
-![Insta Insights3 ](assets/Insta_insights3.png)
+<img src="assets/Insta_recs.png" alt="Recommendations" style="width: 700px; height: auto;">
 
-#
-![Recommendations](assets/Insta_recs.png)
+<img src="assets/Insta_challenges.png" alt="Challenges" style="width: 700px; height: auto;">
 
 
-![Challenges](assets/Insta_challenges.png)
