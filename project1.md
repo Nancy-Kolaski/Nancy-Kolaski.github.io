@@ -64,8 +64,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 * The **top 10 products** ordered: ranked with **regular bananas** at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
-<img src="assets/Products_top.png" alt="Products_top" style="width: 400px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 300px; height: auto;">
-
+<img src="assets/Products_top.png" alt="Products_top" style="width: 400px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 400px; height: auto;">
 
 ------------------------
 
@@ -73,9 +72,12 @@ This analysis for Instacart was performed in order for stakeholders to better un
 They make up: 1) the most **regular** customers, 2) majority of **new** customers, & 3) majority of **loyal** customers.  
 *Most customers have **families** ( pie chart).
 * The next bar chart shows that **Southern Regions** generate the most of Instacart's spendings.  This is followed by Western Regions, then Midwest Regions, with Northeast spending the least.  This pattern is the same for both groups of people (high and low spenders)
-* These final horizontal bar charts are broken up by regions, showing the **top 5 departments for that region**.  All of them show a similar distribution of department preference in the following order: **1) Frozen, 2) Beverages, 3) Snacks, 4) Dairy Eggs, 5) Produce**
 
-<img src="assets/pie_bar.png" alt="pie_bar" style="width: 400px; height: auto;"> <img src="assets/top5_region.png" alt="Top 5" style="width: 250px; height: auto;">
+<img src="assets/pie_bar.png" alt="pie_bar" style="width: 600px; height: auto;"> 
+
+* These horizontal bar charts below are broken up by regions, showing the **top 5 departments for that region**.  All of them show a similar distribution of department preference in the following order: **1) Frozen, 2) Beverages, 3) Snacks, 4) Dairy Eggs, 5) Produce**
+
+<img src="assets/top5_region.png" alt="Top 5" style="width: 250px; height: auto;">
 
 ------------------------
 
