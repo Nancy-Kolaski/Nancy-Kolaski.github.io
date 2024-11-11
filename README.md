@@ -96,7 +96,7 @@ nancykolaski@gmail.com
 #### **Instacart Basket Analysis**
 <img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
-[See the Project 1 Explanation on the Project Page](project1.mdl#project1)
+[See the Project 1 Explanation on the Project Page](project1.md#project1)
 
 
 [The Instacart Online Grocery Shopping Dataset 2017](www.instacart.com/datasets/grocery-shopping-2017)
