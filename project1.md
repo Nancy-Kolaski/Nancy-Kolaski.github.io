@@ -23,7 +23,16 @@ This analysis for Instacart was performed in order to better understand customer
   
 ## **Insights:**
 
-![Insta Insights](assets/insta_insights1.png)
+![Insta Insights 1](assets/Insta_insights1.png)
+
+#
+![Insta Insights 2](assets/Insta_insights2.png)
+
+#
+![Insta Insights3 ](assets/Insta_insights3.png)
+
+#
+![Recommendations](assets/Insta_recs.png)
 
 
-
+![Challenges](assets/Insta_challenges.png)
