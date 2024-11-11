@@ -10,3 +10,14 @@ This analysis for Instacart was performed in order to better understand customer
 - How can product price tags by simplified into price range groupings to help Marketing and Sales efforts?
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
 
+#### **Skills:**
+- Python/Anaconda
+- Data Cleaning and data wrangling
+- Deriving variables, merging
+- Grouping datasets
+- Aggregating data
+- Population flows
+- Visualizations in Python matplotlib, Seaborn, Scipy (line chart, bar chart, histogram, pie chart, scatterplot, stacked bar chart)
+- Interpret Results and Summarize findings/insights.
+- Reporting in Excel
+
