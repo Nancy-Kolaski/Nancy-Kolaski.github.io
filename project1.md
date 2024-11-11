@@ -35,30 +35,29 @@ This analysis for Instacart was performed in order for stakeholders to better un
   
 ## **Insights:**
 
-**Saturday** and **Sunday** are the busiest days of the week.
+* **Saturday** and **Sunday** are the busiest days of the week.
 
-Peek hours are between **9am-5pm** with **10am**, the busiest hour of the day. 
+* Peek hours are between **9am-5pm** with **10am**, the busiest hour of the day. 
 
-People tend to spend the most money around **2-3am**.
+* People tend to spend the most money around **2-3am**.
 
 <img src="assets/Insights_1a.png" alt="Insights 1a" style="width: 700px; height: auto;">
 
 There is a correlation between **age** and **spending power**, with a definitive **jump in income at age 40**, from **$400,000 to $600,000**.
 
-# 
-The line chart shows that **snack items** are the most frequently purchased for all shoppers, no matter the time.
+* The line chart shows that **snack items** are the most frequently purchased for all shoppers, no matter the time.
 
-Recommend **snack** options to be included in advertisements at **all hours of the day**.
+* Recommend **snack** options to be included in advertisements at **all hours of the day**.
 
 <img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;">
 
 
-# 
-**Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
+ 
+* **Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
 
-Most products cost between **#1-$15**, while a few are priced higher in **$15-$25** range.  This information will help to figure out apropriate and simpler price range groupsing, as majority of items are lower priced.  Aim for $5 increments for simpler price groupings.
+* Most products cost between **#1-$15**, while a few are priced higher in **$15-$25** range.  This information will help to figure out apropriate and simpler price range groupsing, as majority of items are lower priced.  Aim for $5 increments for simpler price groupings.
 
-The top 10 products ordered: ranked with regular bananas at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
+* The top 10 products ordered: ranked with regular bananas at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
 <img src="assets/Insights_2.png" alt="Insights 2" style="width: 700px; height: auto;">
 
