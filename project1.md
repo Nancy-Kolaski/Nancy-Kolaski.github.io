@@ -12,7 +12,6 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 ![image](https://github.com/user-attachments/assets/b0ad7780-22d3-45e3-b8e1-d8a2e9cfce49)
 
-[customers](large_data_file.csv)
 
 
 
@@ -36,14 +35,55 @@ This analysis for Instacart was performed in order for stakeholders to better un
   
 ## **Insights:**
 
-<img src="assets/Insta_insights1.png" alt="Insights 1" style="width: 700px; height: auto;">
+**Saturday** and **Sunday** are the busiest days of the week.
 
-<img src="assets/Insta_insights2.png" alt="Insights 2" style="width: 700px; height: auto;">
+Peek hours are between **9am-5pm** with **10am**, the busiest hour of the day. 
 
-<img src="assets/Insta_insights3.png" alt="Insights 3" style="width: 700px; height: auto;">
+People tend to spend the most money around **2-3am**.
 
-<img src="assets/Insta_recs.png" alt="Recommendations" style="width: 700px; height: auto;">
+<img src="assets/Insights_1a.png" alt="Insights 1a" style="width: 700px; height: auto;">
 
-<img src="assets/Insta_challenges.png" alt="Challenges" style="width: 700px; height: auto;">
+There is a correlation between **age** and **spending power**, with a definitive **jump in income at age 40**, from **$400,000 to $600,000**.
 
+# 
+The line chart shows that **snack items** are the most frequently purchased for all shoppers, no matter the time.
+
+Recommend **snack** options to be included in advertisements at **all hours of the day**.
+
+<img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;">
+
+
+# 
+**Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
+
+Most products cost between **#1-$15**, while a few are priced higher in **$15-$25** range.  This information will help to figure out apropriate and simpler price range groupsing, as majority of items are lower priced.  Aim for $5 increments for simpler price groupings.
+
+The top 10 products ordered: ranked with regular bananas at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
+
+<img src="assets/Insights_2.png" alt="Insights 2" style="width: 700px; height: auto;">
+
+# Recommendations Review:
+* Increase Ads during mid week (Tuesdays & Wednesdays)
+* Schedule Ads between 12pm and 3pm, the busiest hours for placing orders.
+* Schedule Ads for higher priced items in the early morning hours between 2-3am.
+* Advertise snacks all hours
+* Place eye-catching poster Ads within the popular departments (Produce, dairy/eggs. Snacks, beverages, frozen, and pantry )
+* Usw promotional Ads for popular items to increase amount purchased, as well as Ads for lesser populated areas (international, pet, & alcohol)
+* Keep $5 price range groupings as majority of products are between $5-$15.
+* Promotional Ads for organic items (placed in highly populated banana section)
+* Keep organic foods well stocked and in good shape to maintain the integrity of these sales.
+* Recommend targeting 30s-40s, young family groups in advertisements - busy lifestyles (prepared food, quick snacks, food on-the-go)
+* Recommend increasing advertisements in southern regions to maintain integrity of their higher sales, as well as promotion of Instacart to the other regions to gain more customers (keeping in mind these variables and target populations in the types of Ads used.
+
+
+# Challenges:
+* Creating flagged columns or column derivations did not always go as planned.
+  * **Solution: Since I carefully kept track of each step of the wrangling process, I could trace my footsteps and was able to restart the steps prior to my error. This taught me to record each manipulation of original datasets, no matter how small or insignificant it may seem. As a result, I have learned to be diligent with organization and record keeping throughout the entire wrangling process.**
+
+* I experienced difficulty in creating certain visualizations with python using this large dataset, particularly pie charts.
+  * **Solution: I transferred categorized data into a csv file and then upload into Tableau to create a pie chart there instead.**
+ 
+* This project was extremely time-consuming for me, taking much longer than the CareerFoundry time frame expectation for task completion.
+  
+  * **Because of the amount of time invested, I found that this was a great learning toolfor me to fully understand python and jupyter notebook. I grew a great appreciation for python with hands on work throughout the tasks involved. As my knowledge grew, I found it fun to dissect and manipulate this large dataset to find the key insights that I was targeting. I spent time deep diving into this coursework since I knew that this process was going to be essential for my future work as a data analyst.**
 
