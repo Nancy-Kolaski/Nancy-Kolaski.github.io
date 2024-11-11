@@ -64,7 +64,10 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 * The **top 10 products** ordered: ranked with **regular bananas** at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
-<img src="assets/Products_top.png" alt="Products_top" style="width: 300px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 250px; height: auto;">
+<img src="assets/Products_top.png" alt="Products_top" style="width: 400px; height: auto;"> <img src="assets/bar_departments.png" alt="bar_deps" style="width: 300px; height: auto;">
+
+
+
 
 ------------------------
 
