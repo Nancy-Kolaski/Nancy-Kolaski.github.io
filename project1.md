@@ -22,6 +22,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - How can product price tags by simplified into price range groupings to help Marketing and Sales efforts?
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
 
+
 ## **Skills:**
 - Python/Anaconda
 - Data Cleaning and data wrangling
@@ -32,6 +33,8 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - Visualizations in Python matplotlib, Seaborn, Scipy (line chart, bar chart, histogram, pie chart, scatterplot, stacked bar chart)
 - Interpret Results and Summarize findings/insights.
 - Reporting in Excel
+
+--------
   
 ## **Insights:**
 
@@ -43,7 +46,9 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 <img src="assets/Insights_1a.png" alt="Insights 1a" style="width: 700px; height: auto;">
 
-There is a correlation between **age** and **spending power**, with a definitive **jump in income at age 40**, from **$400,000 to $600,000**.
+-------
+
+* There is a correlation between **age** and **spending power**, with a definitive **jump in income at age 40**, from **$400,000 to $600,000**.
 
 * The line chart shows that **snack items** are the most frequently purchased for all shoppers, no matter the time.
 
@@ -51,13 +56,13 @@ There is a correlation between **age** and **spending power**, with a definitive
 
 <img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;">
 
-
+-------
  
 * **Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
 
 * Most products cost between **#1-$15**, while a few are priced higher in **$15-$25** range.  This information will help to figure out apropriate and simpler price range groupsing, as majority of items are lower priced.  Aim for $5 increments for simpler price groupings.
 
-* The top 10 products ordered: ranked with regular bananas at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
+* The **top 10 products** ordered: ranked with **regular bananas** at the top, followed by organic bananas, organic strawberries, organic baby spinach, organic avocados, lemon,regular strawberries, limes, and organic while milk (interesting to note the popularity of **organic products**)
 
 <img src="assets/Insights_2.png" alt="Insights 2" style="width: 700px; height: auto;">
 
@@ -69,6 +74,8 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 * These final horizontal bar charts are broken up by regions, showing the **top 5 departments for that region**.  All of them show a similar distribution of department preference in the following order: **1) Frozen, 2) Beverages, 3) Snacks, 4) Dairy Eggs, 5) Produce**
 
 <img src="assets/Insights_3.png" alt="Insights 3" style="width: 700px; height: auto;">
+
+-------
 
 
 # Recommendations Review:
@@ -83,6 +90,8 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 * Keep organic foods well stocked and in good shape to maintain the integrity of these sales.
 * Recommend targeting 30s-40s, young family groups in advertisements - busy lifestyles (prepared food, quick snacks, food on-the-go)
 * Recommend increasing advertisements in southern regions to maintain integrity of their higher sales, as well as promotion of Instacart to the other regions to gain more customers (keeping in mind these variables and target populations in the types of Ads used.
+
+--------
 
 
 # Challenges:
