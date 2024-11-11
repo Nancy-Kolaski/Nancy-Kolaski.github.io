@@ -23,6 +23,8 @@ This analysis for Instacart was performed in order to better understand customer
   
 ## **Insights:**
 
+<img src="assets/Insta_insights1.png" alt="Insights 1" style="width: 700px; height: auto;">
+
 ![Insta Insights 1](assets/Insta_insights1.png)
 
 #
