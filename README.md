@@ -20,7 +20,7 @@ nancykolaski@gmail.com
 
 [View my complete portfolio](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/NK%20Data%20Analytics%20Portfolio%20(6).pdf)
 
-[![GitHub Logo](https://github.com/Nancy-Kolaski)
+[GitHub](https://github.com/Nancy-Kolaski)
 
 
 
