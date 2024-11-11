@@ -1,5 +1,5 @@
 #### Data Analyst                        
-![About me](assets/profile.jpeg) style= "width:300px;height:200px;"></a>   
+<![About me](assets/profile.jpeg) style= "width:300px;height:200px;"></a>   
 nancykolaski@gmail.com
 
 [View  my resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski-Nancy-resume.pdf)
