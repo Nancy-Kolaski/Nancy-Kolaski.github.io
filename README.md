@@ -1,5 +1,6 @@
 #### Data Analyst                        
-![About me](assets/profile.jpeg)
+ 
+<img src="assests/profile.jpeg" width="300" height="200" alt="Description of image">
 
 
 nancykolaski@gmail.com
