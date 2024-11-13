@@ -19,7 +19,7 @@ nancykolaski@gmail.com
 
 
 
-### Analytical Skills: Data Cleaning & Preparation
+### Skills
 
 <table>
   <tr>
@@ -29,35 +29,22 @@ nancykolaski@gmail.com
         <li>Exploratory & Descriptive Analytics</li>
         <li>Integrating & Transforming Data</li>
         <li>Querying, Filtering, Sorting, & Grouping</li>
+         <li>Statistical Analysis, Linear Regression</li>
+        <li>Writing Technical Documentation & Reports</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Statistical Analysis, Linear Regression</li>
-        <li>Writing Technical Documentation & Reports</li>
         <li>Data Visualizations & Dashboards</li>
         <li>Machine Learning</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-### Professional Skills 
-<table>
-  <tr>
-    <td>
-      <ul>
         <li>Problem Solving</li>
         <li>Communication/Collaboration</li>
-        <li>Presentation Skills</li>
         <li>Organization</li>
-        <li>Spansh Proficiency</li>
+        <li>Spanish Proficiency</li>
       </ul>
     </td>
   </tr>
 </table>
-  
 
 
        
@@ -74,6 +61,12 @@ nancykolaski@gmail.com
     </td>
   </tr>
 </table>
+
+
+
+
+
+
 
 
 # Projects:
