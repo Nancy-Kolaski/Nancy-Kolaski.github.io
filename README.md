@@ -51,26 +51,29 @@ Instacart is a well known and widely used online grocery shopping service lookin
   * Goal: Assist Instacart stakeholders to understand the variety of customers in their database and their purchasing behaviors in order to develop targeted marketing strategies. The goal for this analysis is to ensure that Instacart targets the right customer profile with the appropriate products. They have specifically requested data regarding busiest times of day/days of the week, price range groupings on their products in order to simplify them, and departments/products that are most popular (most products sold).
 
 *** 
-
 ## **Influenza Analysis**
 
-Explanation:
+Preparing medical staffing agencies with appropriate staffing in anticipation for flu season across the United States.
 
 ***
-
 ##  **Rockbuster Stealth Analysis**
 
-Explanation:
+Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies
 
 ***
 ##  **U.S.A. Real Estate Analysis**
 
-Explanation:
+Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
 
 *** 
 ## **Machine Learning**
 
 Explanation: 
+
+*** 
+## **GameCo Financial Analysis**
+
+Assist GameCo Video Game company in eveloping new games and establish better marketing strategies across North America, Europe, and Japan.
 
 
 
