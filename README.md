@@ -66,6 +66,19 @@ nancykolaski@gmail.com
 
 
 
+|    Analytical Skills                             |    Professional Skills     |    Tools    |
+|--------------------------------------------------|----------------------------|-------------|
+|    Data Cleaning & Prepration                    |    Problem Solving         |    SQL      |
+|    Exploratory & Descriptive Analysis            |    Communication           |    Python   |
+|    Integrating & Transforming Data               |    Collaboration           |    Excel    |
+|    Querying, Filtering, Sorting, Grouping        |    Presentatiion Skills    |    Tableau  |
+|    Performing Statistical Analysis               |    Organization            |          
+|    Writing technical documentation & Reports     |    Spanish Proficiency     |
+|    Data Visualizaitons & Dashboards              |                       
+|    Machine Learning                              |                       
+
+
+
 
 
 
