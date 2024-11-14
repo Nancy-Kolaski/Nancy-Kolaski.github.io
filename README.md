@@ -47,8 +47,7 @@ nancykolaski@gmail.com
 
 [Check out my Instacart project in more detail](project1.md#project1)
 
-Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. This project from the CareerFoundry coursework was geared to introduce python to data analyst students.
-  * Goal: Assist Instacart stakeholders to understand the variety of customers in their database and their purchasing behaviors in order to develop targeted marketing strategies. The goal for this analysis is to ensure that Instacart targets the right customer profile with the appropriate products. They have specifically requested data regarding busiest times of day/days of the week, price range groupings on their products in order to simplify them, and departments/products that are most popular (most products sold).
+Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. 
 
 *** 
 ## **Influenza Analysis**
