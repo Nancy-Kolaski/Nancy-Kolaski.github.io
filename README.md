@@ -35,8 +35,11 @@ nancykolaski@gmail.com
 
 
 
+***
 
-# Projects:
+# Projects: 
+
+***
 
 <img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
@@ -47,7 +50,27 @@ nancykolaski@gmail.com
 Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. This project from the CareerFoundry coursework was geared to introduce python to data analyst students.
   * Goal: Assist Instacart stakeholders to understand the variety of customers in their database and their purchasing behaviors in order to develop targeted marketing strategies. The goal for this analysis is to ensure that Instacart targets the right customer profile with the appropriate products. They have specifically requested data regarding busiest times of day/days of the week, price range groupings on their products in order to simplify them, and departments/products that are most popular (most products sold).
 
+*** 
 
+## **Influenza Analysis**
+
+Explanation:
+
+***
+
+##  **Rockbuster Stealth Analysis**
+
+Explanation:
+
+***
+##  **U.S.A. Real Estate Analysis**
+
+Explanation:
+
+*** 
+## **Machine Learning**
+
+Explanation: 
 
 
 
