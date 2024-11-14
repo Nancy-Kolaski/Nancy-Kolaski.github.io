@@ -21,63 +21,17 @@ nancykolaski@gmail.com
 
 ### Skills
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>Data Cleaning & Preparation</li>
-        <li>Exploratory & Descriptive Analytics</li>
-        <li>Integrating & Transforming Data</li>
-        <li>Querying, Filtering, Sorting, & Grouping</li>
-         <li>Statistical Analysis, Linear Regression</li>
-        <li>Writing Technical Documentation & Reports</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Data Visualizations & Dashboards</li>
-        <li>Machine Learning</li>
-        <li>Problem Solving</li>
-        <li>Communication/Collaboration</li>
-        <li>Organization</li>
-        <li>Spanish Proficiency</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-
-       
-### Tools:
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>SQL</li>
-        <li>Python</li>
-        <li>Excel</li>
-        <li>Tableau</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-|    Analytical Skills                             |    Professional Skills     |    Tools    |
-|--------------------------------------------------|----------------------------|-------------|
-|    Data Cleaning & Prepration                    |    Problem Solving         |    SQL      |
-|    Exploratory & Descriptive Analysis            |    Communication           |    Python   |
-|    Integrating & Transforming Data               |    Collaboration           |    Excel    |
-|    Querying, Filtering, Sorting, Grouping        |    Presentatiion Skills    |    Tableau  |
-|    Performing Statistical Analysis               |    Organization            |          
-|    Writing technical documentation & Reports     |    Spanish Proficiency     |
-|    Data Visualizaitons & Dashboards              |                       
-|    Machine Learning                              |                       
-
-
+| <center>Analystical Skills</center>                               | <center>Professional Skills</center>         | <center>Tools</center>        |
+|-------------------------------------------------------------------|----------------------------------------------|-------------------------------|
+|   <center>Data Cleaning & Prepration </center>                    |     <center>Problem Solving  </center>       |     <center>SQL</center>      |
+|   <center> Exploratory & Descriptive Analysis  </center>          |     <center>Communication </center>          |     <center>Python</center>   |
+|    <center>Integrating & Transforming Data  </center>             |     <center>Collaboration  </center>         |     <center>Excel</center>    |
+|   <center> Querying, Filtering, Sorting, Grouping</center>        |     <center>Presentatiion Skills</center>    |     <center>Tableau</center>  |
+|   <center> Performing Statistical Analysis </center>              |     <center>Organization </center>           |          
+|   <center> Writing technical documentation & Reports</center>     |     <center>Spanish Proficiency</center>     |
+|   <center> Data Visualizaitons & Dashboards </center>             |                       
+|   <center> Machine Learning   </center>                           |                       
 
 
 
