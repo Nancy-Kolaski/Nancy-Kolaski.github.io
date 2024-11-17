@@ -12,8 +12,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 
 
-[data link](https://github.com/user-attachments/assets/b0ad7780-22d3-45e3-b8e1-d8a2e9cfce49)
-
+[data link](https://www.instacart.com/datasets/grocery-shopping-2017 )
 
 
 
