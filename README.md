@@ -43,7 +43,7 @@ nancykolaski@gmail.com
 
 <img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
-## **Instacart Basket Analysis**
+### **Instacart Basket Analysis**
 
 [Check out my Instacart project in more detail](project1.md#project1)
 
@@ -53,7 +53,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 <img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
 
-## **Influenza Analysis**
+### **Influenza Analysis**
 
 [Check out my Influenza project in more detail](project2.md#project2)
 
@@ -61,7 +61,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 Preparing medical staffing agencies with appropriate staffing in anticipation for flu season across the United States.
 
 ***
-##  **Rockbuster Stealth Analysis**
+###  **Rockbuster Stealth Analysis**
 
 [Check out my Rockbuster project in more detail](project3.md#project3)
 
@@ -69,21 +69,21 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies
 
 ***
-##  **U.S.A. Real Estate Analysis**
+###  **U.S.A. Real Estate Analysis**
 
 [Check out my U.S.A. Real Estate project in more detail](project4.md#project4)
 
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
 
 *** 
-## **Machine Learning**
+### **Machine Learning**
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
 Using machine learning to help predict the consequences of climat change aroudn Europe and, potentially, the world.  This analysis investigates the potential of using historical weather data to make weather predictions.
 
 *** 
-## **GameCo Financial Analysis**
+### **GameCo Financial Analysis**
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
