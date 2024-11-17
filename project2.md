@@ -37,7 +37,7 @@ If a person is 65+ years old, then they are more likely to die by flu.
 - Excel
 - Power Point
 - Tableau
-<img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 300px; height: auto;">
+<img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 200px; height: auto;">
 
 
 
