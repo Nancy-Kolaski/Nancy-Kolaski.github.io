@@ -63,6 +63,9 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 ***
 ##  **Rockbuster Stealth Analysis**
 
+[Check out my Rockbuster project in more detail](project3.md#project3)
+
+
 Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies
 
 ***
