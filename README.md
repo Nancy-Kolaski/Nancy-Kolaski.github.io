@@ -52,6 +52,9 @@ Instacart is a well known and widely used online grocery shopping service lookin
 *** 
 ## **Influenza Analysis**
 
+[Check out my Influenza project in more detail](project2.md#project2)
+
+
 Preparing medical staffing agencies with appropriate staffing in anticipation for flu season across the United States.
 
 ***
