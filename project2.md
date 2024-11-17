@@ -1,5 +1,10 @@
 # Influenza Analysis
+
+<img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
+
 [Tableau Link for this project](https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1)
+
+
 
 The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in
 the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. The purpose of this analysis was to determine when to send staff, and how many, to each states. The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season.
@@ -11,11 +16,16 @@ To help medical staffing agency that provides temporary workers to clinics and h
 If a person is 65+ years old, then they are more likely to die by flu.
 
 
-<img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
-
-
-The United States has an 
-
 ## Data link 
 
-[](https://github.com/user-attachments/assets/d38610d0-33ba-4ff8-b754-2b76f302adc2)
+[Influenza Deaths](https://wonder.cdc.gov/ucd-icd10.html) |
+[Vaccine Data](https://www.cdc.gov/vaccines/imz-managers/nis/about.html) |
+[Lab Results Data](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)  |
+[Survey of Flu Shot Rates](https://www.cdc.gov/nis/about/?CDC_AAref_Val=https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
+
+## Results: 
+
+
+
+
+
