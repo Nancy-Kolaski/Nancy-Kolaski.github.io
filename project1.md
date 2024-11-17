@@ -35,7 +35,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - Reporting in Excel
 
 
-<img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;"> <img src="assets/jupyter-logo.jpeg" alt="jupyter logo" style="width: 50px; height: auto;">
+<img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;">   <img src="assets/jupyter-logo.jpeg" alt="jupyter logo" style="width: 50px; height: auto;">   <img src="assets/excel-logo.png" alt="excel logo" style="width: 50px; height: auto;">   <img src="assets/github-logo.jpeg" alt="github logo" style="width: 50px; height: auto;">
 
 ------------------------
   
