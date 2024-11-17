@@ -34,7 +34,7 @@ nancykolaski@gmail.com
 |   <center> * Machine Learning   </center>                           |                       
 
 
-<img src="assets/tools-logo.png" alt="tools logo" style="width: 50px; height: auto;">   
+<img src="assets/tools-logos.png" alt="tools logos" style="width: 625px; height: auto;">   
 
 ***
 
