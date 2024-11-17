@@ -34,7 +34,7 @@ nancykolaski@gmail.com
 |   <center> * Machine Learning   </center>                           |                       
 
 
-<img src="assets/sql-logo.webp" alt="sql logo" style="width: 50px; height: auto;">   <img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;">   <img src="assets/jupyter-logo.jpeg" alt="jupyter logo" style="width: 50px; height: auto;">   <img src="assets/excel-logo.png" alt="excel logo" style="width: 50px; height: auto;">   <img src="assets/github-logo.jpeg" alt="github logo" style="width: 50px; height: auto;">
+<img src="assets/tools-logo.png" alt="tools logo" style="width: 50px; height: auto;">   
 
 ***
 
