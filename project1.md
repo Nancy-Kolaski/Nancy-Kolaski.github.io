@@ -35,7 +35,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - Reporting in Excel
 
 
-<img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;">
+<img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;"> <img src="assets/jupyter-logo.jpeg" alt="jupyter logo" style="width: 50px; height: auto;">
 
 ------------------------
   
@@ -57,8 +57,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 * Recommend **snack** options to be included in advertisements at **all hours of the day**.
 
-<img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;">
-
+<img src="assets/Insights_1b.png" alt="Insights 1b" style="width: 700px; height: auto;"> 
 ------------------------
  
 * **Produce, dairy/eggs, snacks, beverages, frozen,** and **pantry** departments are the most popular departments (with least ppular departments of *international, alcohol,* and *pets*.
