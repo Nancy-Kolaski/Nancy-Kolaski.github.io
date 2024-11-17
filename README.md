@@ -50,6 +50,9 @@ nancykolaski@gmail.com
 Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. 
 
 *** 
+
+<img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
+
 ## **Influenza Analysis**
 
 [Check out my Influenza project in more detail](project2.md#project2)
