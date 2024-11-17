@@ -23,8 +23,20 @@ If a person is 65+ years old, then they are more likely to die by flu.
 [Lab Results Data](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)  |
 [Survey of Flu Shot Rates](https://www.cdc.gov/nis/about/?CDC_AAref_Val=https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
 
-## Skills: 
+## **Skills:**
+- Data Cleaning
+- Statistical hypothesis
+- Hypothesis testing (t-testing)
+- Grouping datasets
+- Temporal & Statistical Visualization in Tableau
+  - Bar Chart, Scatter Plot, Choropleth Map, Line Graph
+- Interpreting Results & Summarize findings/insights
+- Presenting Results
 
+## **Tools:**
+- Excel
+- Power Point
+- Tableau
 
 
 
