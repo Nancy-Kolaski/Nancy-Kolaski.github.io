@@ -11,8 +11,7 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 
 
-
-[data link](https://www.instacart.com/datasets/grocery-shopping-2017 )
+[https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017 ) via kaggle.com
 
 
 
