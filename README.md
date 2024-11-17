@@ -71,15 +71,21 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 ***
 ##  **U.S.A. Real Estate Analysis**
 
+[Check out my U.S.A. Real Estate project in more detail](project4.md#project4)
+
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
 
 *** 
 ## **Machine Learning**
 
+[Check out my Machine Learning project in more detail](project5.md#project5)
+
 Using machine learning to help predict the consequences of climat change aroudn Europe and, potentially, the world.  This analysis investigates the potential of using historical weather data to make weather predictions.
 
 *** 
 ## **GameCo Financial Analysis**
+
+[Check out my GameCo project in more detail](project6.md#projec6)
 
 Assist GameCo Video Game company in eveloping new games and establish better marketing strategies across North America, Europe, and Japan.
 
