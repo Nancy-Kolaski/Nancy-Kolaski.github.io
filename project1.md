@@ -34,7 +34,8 @@ This analysis for Instacart was performed in order for stakeholders to better un
 - Interpret Results and Summarize findings/insights.
 - Reporting in Excel
 
-<img src="assets/python-logo.png" alt="python style="width: 100px; height: auto;">
+
+<img src="assets/python-logo.png" alt="python logo" style="width: 50px; height: auto;">
 
 ------------------------
   
