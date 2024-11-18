@@ -40,23 +40,52 @@ If a person is 65+ years old, then they are more likely to die by flu.
 - Tableau
 <img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 150px; height: auto;">
 
+---
 
 ## **Insights:**
 
-**Let's look at targeted population**
+**1. The first step was to determine WHO (which population) was most affected by flu related deaths.**
 
-By grouping into 10-year age range, it was easier to see that the vulnerable population makes up more of deaths
+By grouping the data into 10-year age ranges, it was easier to see that the vulnerable population makes up more flu-related deaths (or age groups that are 65 years of age and older).
 
 <img src="assets/vuln_people_bar.png" alt="vuln people bar" style="width: 400px; height: auto;">
 
-The scatterplots below show:
-  - a higher census in general brings more deaths  
-  - higher census brings a larger vulnerable population.
+**2. The second step was to find out WHERE these deaths are taking place.**
+
+The first scatterplot shows the top 5 states with highest census listed in orange: CA, NY, TX FL, PA.
+  
+The second scatterplot looks only within the vulnerable (65+ years) populations.  There is a correlation to these higher census states contributng to all flu related deaths.  When referring to the scatterplots, the top 5 states from the left were all marked with orange dots on the right scatterplot to see this correlation clearly.
 
 <img src="assets/scatterplots.png" alt="scatterplots" style="width: 600px; height: auto;">
 
-**Let's look at location**
+ - *A higher census brings a larger vulnerable population & more deaths.*
 
-here is some insight about top states, etc...
 
-<img src="assets/Death rate:vuln map.png" alt="vuln map" style="width: 600px; height: auto;">
+* This choropleth map below that shows many layers:
+   - the vulnerable population (depicted by shades of green)
+   - The death rates within that vulnerable population (depicted by shades of orange/red)
+   - The total death numbers (depicted by size of the bubbles)
+
+<img src="assets/death rate map.png" alt="vuln map" style="width: 600px; height: auto;">
+
+**3. The third step was to find out WHEN these deaths are taking place**
+
+This line chart shows a trend of winter months within 2009-2017, specifically january, but higher flu deaths notable in Decmeber through March. 
+
+<img src="assets/seasonality_pic.png" alt="seasonality pic" style="width: 600px; height: auto;">
+
+This bar chart below shows a glimpse into the last three years (2015-2017); with January, February, & March ranking top months for flu related deaths.
+
+<img src="assets/month bar.png" alt="month bar" style="width: 600px; height: auto;">
+
+***
+
+## **Conclusion**
+
+<img src="assets/flue road  map.png" alt="flu road map" style="width: 600px; height: auto;">
+
+
+
+
+
+
