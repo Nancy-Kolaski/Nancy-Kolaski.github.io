@@ -22,6 +22,9 @@ Assist the Rockbuster Stealth business intelligence department, via SQL queries,
 - Visualizations in Tableau (line chart, bar chart, stacked bar chart, choropleth map, bubble chart)
 -  Interpret Results and Summarize findings/insights.
 
+<img src="assets/Rockbuster/Rockbuster_tools.png" alt="Rockbuster tools" style="width: 200px; height: auto;">
+
+
 
 ## Key Questions & Objective
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
