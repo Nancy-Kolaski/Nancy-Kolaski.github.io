@@ -40,7 +40,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ● Do sales figures vary between geographic regions?
 
 
-## Data & Tools 
+## **Data Link**
+
+[https://www.vgchartz.com/](https://www.vgchartz.com/)
+
 The dataset includes information on Rockbuster’s data looaded into a PostgreSQL database including: film inventory, customers, payments, stores, staff, films, actors, rental history, addresses, and transactions. It is structured to reflect real-world business scenarios and relationships between different data tables.
 
-[dataset](https://github.com/user-attachments/files/15874692/3.4.data.xlsx)
