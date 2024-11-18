@@ -30,7 +30,7 @@ As house size increases, price increases.
 - Clusterplot Analysis
 - Pairplots
 
-### Tools:
+## Tools:
 The following python libraries were used for this project
 - pandas (for data analysis)
 - seaborn & Matplotlib (for visualizations)
@@ -40,7 +40,7 @@ The following python libraries were used for this project
 - Excel (for creating crosstab data, specifically for using random sample to import clustered data into tableau for visualization)
 
 
-### Data:
+## Data:
 
 [https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) 
 
@@ -56,7 +56,7 @@ The following python libraries were used for this project
 
 ***
 
-### Insights:
+## Insights:
 
 By using this correlation heatmap (below), I was able to determine the strongest positive correlations. Since bed, bath, and house size all seem to be obvious in their correlation, it was determined to further explore the relationship between house size and price
 (noted by the lighter purple color).
@@ -86,6 +86,37 @@ clusters stay within a certain range.
 
 - Geography plays an important role on the price. Western and Northeast Regions, indicated by the darkest green color, demonstrate the highest revenue generated from real estate within the U.S.A. These top states include **Hawaii, California, Montana, Colorado, Utah, New York, & Massachesetts**. Lighter green states (midwest) show the least revenue generating states.
 
-<img src="assets/USA_RealEstate/location_map.png" alt="location map" style="width: 500px; height: auto;">
+<img src="assets/USA_RealEstate/loc_map.png" alt="location map" style="width: 600px; height: auto;">
+
+
+- Let's look at seasonality (1901-2023).  Sales remain the same across all regions.
+  - Most homes are sold in March and April, regardless of location and year.
+  - Revenue is represented highest in total for West Regions, then Southeast, Northeast, Southwest, and Midwest marked as producing the lowest revenue. This is parallel to cost of living parameters. Trends remain the same.
+  - April is the hot month for selling/buying.
+  - *Note: 2024 was left out as homes without a previous sold date were marked for today's date (raising the month to current month of august 2024). By removing this year, we have eliminated the risk of tainting data to show more sales where they have not occurred.*
+
+<img src="assets/USA_RealEstate/season_linechart.png" alt="seasonality line chart" style="width: 600px; height: auto;">
+
+## Conclusion: 
+
+### Insights:
+- PRICES and LOCATION:
+  - Highest real estate prices exist within the west and northeast regions: CA, HI, MT, CO, VT, NY, MA
+  - Lowest real estate prices are in the midwest
+- PRICES and HOUSE SIZE:
+  - Strongest correlations exist between house size and price
+  - The bigger the house size, the higher the price is, generally.
+  -  2700 square feet tends to be a house size that is standard across ALL PRICES!
+- SEASONALITY:
+  - Most homes are sold in April (and March).
+
+### Recommendations:
+- There was a large amount of data where previous sold dates were blank. It was assumed that these were newer builds without a previously sold date. These
+homes were left out of the seasonality. Next steps would be to clarify this.
+- Acre lot sizes and house sizes had a HUGE variance in size, along with price range. It would have been insightful to have more details with these homes/listings
+to understand the context of these ranges. Especially acre lots and house sizes marked as '0'. This does not make sense as it is impossible to have a house or
+lot size equal to 0. Next steps would be to clarify the number markers, determine if these were missing values filled in, and eliminate or impute values.
+
+
 
 
