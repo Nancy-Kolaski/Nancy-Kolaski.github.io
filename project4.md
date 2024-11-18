@@ -79,7 +79,7 @@ clusters stay within a certain range.
 
 <img src="assets/USA_RealEstate/clusters.png" alt="clusters" style="width: 400px; height: auto;"> 
 
-- The above scatterplot was what I utilized via Tableau, as it was easier to manage and interact with.  The below scatterplot is the same information using matplotlib from python:
+- I utilized Tableau to produce the above scatterplot, as it was easier to manage and interact with.  The below scatterplot is the same information using matplotlib from Python:
 
 <img src="assets/USA_RealEstate/house_size_price_python.png" alt="clusters" style="width: 500px; height: auto;">
 
@@ -100,14 +100,14 @@ clusters stay within a certain range.
 ## Conclusion: 
 
 ### Insights:
-- PRICES and LOCATION:   <img src="assets/USA_RealEstate/region_pic.png" alt="region_pic" style="width: 50px; height: auto;">
+- PRICES and LOCATION:   <img src="assets/USA_RealEstate/region_pic.png" alt="region_pic" style="width: 75px; height: auto;">
   - Highest real estate prices exist within the west and northeast regions: CA, HI, MT, CO, VT, NY, MA
   - Lowest real estate prices are in the midwest
-- PRICES and HOUSE SIZE:   <img src="assets/USA_RealEstate/house_pic.png" alt="house pic" style="width: 50px; height: auto;">
+- PRICES and HOUSE SIZE:   <img src="assets/USA_RealEstate/house_pic.png" alt="house pic" style="width: 75px; height: auto;">
   - Strongest correlations exist between house size and price
   - The bigger the house size, the higher the price is, generally.
   -  2700 square feet tends to be a house size that is standard across ALL PRICES!
-- SEASONALITY:   <img src="assets/USA_RealEstate/april_pic.png" alt="april_pic" style="width: 70px; height: auto;">
+- SEASONALITY:   <img src="assets/USA_RealEstate/april_pic.png" alt="april_pic" style="width: 85px; height: auto;">
   - Most homes are sold in April (and March).
 
 ### Recommendations:
