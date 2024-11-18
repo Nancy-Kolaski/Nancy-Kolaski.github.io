@@ -38,7 +38,25 @@ If a person is 65+ years old, then they are more likely to die by flu.
 - Excel
 - Power Point
 - Tableau
-<img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 200px; height: auto;">
+<img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 150px; height: auto;">
 
 
+## **Insights:**
 
+**Let's look at targeted population**
+
+By grouping into 10-year age range, it was easier to see that the vulnerable population makes up more of deaths
+
+<img src="assets/vuln_people_bar.png" alt="vuln people bar" style="width: 400px; height: auto;">
+
+The scatterplots below show:
+  - a higher census in general brings more deaths  
+  - higher census brings a larger vulnerable population.
+
+<img src="assets/scatterplots.png" alt="scatterplots" style="width: 600px; height: auto;">
+
+**Let's look at location**
+
+here is some insight about top states, etc...
+
+<img src="assets/Death rate:vuln map.png" alt="vuln map" style="width: 600px; height: auto;">
