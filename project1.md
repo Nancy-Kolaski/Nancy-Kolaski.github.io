@@ -1,5 +1,5 @@
 # Instacart Baket Analysis
-[GitHub Repository](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/Instacart%20Basket%20Analysis/Instacart_Presentation.pdf)
+<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [GitHub Repository](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/Instacart%20Basket%20Analysis/Instacart_Presentation.pdf)
 
 
 
