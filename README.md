@@ -74,6 +74,9 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies.  
 
 ***
+
+<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 400px; height: auto;">
+
 ###  **U.S.A. Real Estate Analysis**
 
 [Check out my U.S.A. Real Estate project in more detail](project4.md#project4)
