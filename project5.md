@@ -39,8 +39,7 @@
   #### - scipy: .cluster.hierarchy import dendrogram, linkage, fcluster
   #### - bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
 
-# Executing the code
-#### The code is available as jupyter notebooks, available under 'Scripts (Supervised)' and 'Scripts (Unsupervised)'.
+
 
 # Presentation 
 #### There are two presentations available under the 'Presentations' folder: the first feature findings through supervised ML algorithms, and the second is mostly unsupervised ML.
