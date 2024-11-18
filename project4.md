@@ -1,5 +1,5 @@
 
-[Github Repository](https://github.com/Nancy-Kolaski/Python-USA_Real_Estate-Analysis)
+<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;">  [Github Repository](https://github.com/Nancy-Kolaski/Python-USA_Real_Estate-Analysis)
 
 ## Introduction:
 This case study looked at real estate across the U.S.A., specifically across the different regions and investigating whether
