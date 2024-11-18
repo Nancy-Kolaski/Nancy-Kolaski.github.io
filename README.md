@@ -71,7 +71,7 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 [Check out my Rockbuster project in more detail](project3.md#project3)
 
 
-Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies
+Rockbuster Stealth is a movie rental company that used to have stores around the world, looking to move to an online rental service in effort to stay competitive along side new streaming agencies.  Using SQL queries, this analysis was performed for the business intelligence department in preparation for their 2020 market strategies, providing data-driven insights for a redefined approach for sales improvement.
 
 ***
 ###  **U.S.A. Real Estate Analysis**
