@@ -7,11 +7,11 @@
 
 <img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [Github Repository](https://github.com/Nancy-Kolaski/SQL-RockbusterVideoRental)
 
-
+## **Introduction:**
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental services in order to stay competitive.
 
 ## **Goal:**
-Assist the Rockbuster Stealth management board to find data-driven answers to key questions that can be utilized in their 2020 company strategy.
+Assist the Rockbuster Stealth business intelligence department, via SQL queries, in preparation for their 2020 market strategies, providing data-driven insights for a redefined approach for sales improvement.
 
 ## **Steps and Skills:**
 - SQL/Postgres
@@ -22,15 +22,6 @@ Assist the Rockbuster Stealth management board to find data-driven answers to ke
 - Visualizations in Tableau (line chart, bar chart, stacked bar chart, choropleth map, bubble chart)
 -  Interpret Results and Summarize findings/insights.
 
-
-
-
-
-
-
-
-## Introduction 
-Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
 ## Key Questions & Objective
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
