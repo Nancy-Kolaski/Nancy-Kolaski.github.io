@@ -100,14 +100,14 @@ clusters stay within a certain range.
 ## Conclusion: 
 
 ### Insights:
-- PRICES and LOCATION:
+- PRICES and LOCATION:   <img src="assets/USA_RealEstate/region_pic.png" alt="region_pic" style="width: 50px; height: auto;">
   - Highest real estate prices exist within the west and northeast regions: CA, HI, MT, CO, VT, NY, MA
   - Lowest real estate prices are in the midwest
-- PRICES and HOUSE SIZE:
+- PRICES and HOUSE SIZE:   <img src="assets/USA_RealEstate/house_pic.png" alt="house pic" style="width: 50px; height: auto;">
   - Strongest correlations exist between house size and price
   - The bigger the house size, the higher the price is, generally.
   -  2700 square feet tends to be a house size that is standard across ALL PRICES!
-- SEASONALITY:
+- SEASONALITY:   <img src="assets/USA_RealEstate/april_pic.png" alt="april_pic" style="width: 70px; height: auto;">
   - Most homes are sold in April (and March).
 
 ### Recommendations:
