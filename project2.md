@@ -82,7 +82,29 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
 
 ## **Conclusion**
 
-<img src="assets/flue road  map.png" alt="flu road map" style="width: 600px; height: auto;">
+<img src="assets/flu road map.png" alt="flu road map" style="width: 300px; height: auto;">
+
+**Insights:**
+- Vulnerable populations (65+) make up most influenza deaths
+  - 5 states with highest vulnerable population count: California, New York, Texas, Florida, Pennsylvania
+- States with higher census bring higher death counts
+- More deaths by flu occur in the winter months (December - March). January consistently has highest death counts.
+  
+**Recommendations:**
+- Top 5 High Risk States to prioritize staffing needs:
+  - California
+  - New York
+  - Texas
+  - Florida
+  - Pennsylvania
+- Seasonality:
+  - Concentrated staffing needed during January mostly, along with winter months (Dec-March)
+- Further analysis needed on:
+  - Vaccination rates and their impact on death rates on the vulnerable and non-vulnerable populations (65+ vs below 65 years old)
+  - Inclusion of other contributors to our vulnerable population, including those who are under 5 years old, are pregnant, or who have other comorbidities.
+
+**Conclusion:**
+- Based on the analysis of this data, recommendations include supplying the top 5 states with influenza related deaths and population counts with increased staffing of hospitals and agencies during the months of January as priority, along with the winter months of December throu
 
 
 
