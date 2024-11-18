@@ -48,6 +48,8 @@ If a person is 65+ years old, then they are more likely to die by flu.
 
 By grouping the data into 10-year age ranges, it was easier to see that the vulnerable population makes up more flu-related deaths (or age groups that are 65 years of age and older).
 
+**My Hypothesis was true**: If a person is 65+ years old, then they are more likely to die by flu.
+
 <img src="assets/vuln_people_bar.png" alt="vuln people bar" style="width: 400px; height: auto;">
 
 **2. The second step was to find out WHERE these deaths are taking place.**
@@ -83,6 +85,7 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
 ## **Conclusion**
 
 <img src="assets/flu road map.png" alt="flu road map" style="width: 300px; height: auto;">
+
 
 **Insights:**
 - Vulnerable populations (65+) make up most influenza deaths
