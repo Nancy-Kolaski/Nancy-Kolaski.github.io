@@ -21,3 +21,32 @@ Assist the Rockbuster Stealth management board to find data-driven answers to ke
 - Joining, Subqueries, CTEs (Common Table Expressions)
 - Visualizations in Tableau (line chart, bar chart, stacked bar chart, choropleth map, bubble chart)
 -  Interpret Results and Summarize findings/insights.
+
+
+
+
+
+
+
+
+## Introduction 
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
+
+## Key Questions & Objective
+The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
+
+● Which movies contributed the most/least to revenue gain?
+
+● What was the average rental duration for all videos?
+
+● Which countries are Rockbuster customers based in?
+
+● Where are customers with a high lifetime value based?
+
+● Do sales figures vary between geographic regions?
+
+
+## Data & Tools 
+The dataset includes information on Rockbuster’s data looaded into a PostgreSQL database including: film inventory, customers, payments, stores, staff, films, actors, rental history, addresses, and transactions. It is structured to reflect real-world business scenarios and relationships between different data tables.
+
+[dataset](https://github.com/user-attachments/files/15874692/3.4.data.xlsx)
