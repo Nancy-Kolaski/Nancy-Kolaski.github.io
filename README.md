@@ -62,6 +62,10 @@ Instacart is a well known and widely used online grocery shopping service lookin
 Preparing medical staffing agencies with appropriate staffing in anticipation for flu season across the United States.
 
 ***
+
+
+<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 300px; height: auto;">
+
 ###  **Rockbuster Stealth Analysis**
 
 [Check out my Rockbuster project in more detail](project3.md#project3)
