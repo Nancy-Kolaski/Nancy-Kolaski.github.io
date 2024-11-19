@@ -50,6 +50,9 @@
   <img src="/assets/insta.jpeg" alt="Go to Instacart page" style="width: 500px; height: auto;" />
 </a>
 
+<a href="project1.md#project1">
+<img src="/assets/insta.jpeg" alt="My Image" />
+</a>
 
 
 
@@ -68,6 +71,8 @@ Instacart is a well known and widely used online grocery shopping service lookin
 <a href="project2.md#project2">
 <img src="assets/flu.png" alt="flu pic" style="width: 500px; height: auto;" />
 </a>
+
+
 
 ### **Influenza Analysis**
 
