@@ -6,7 +6,9 @@
 <img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
 
-This analysis for Instacart was performed in order for stakeholders to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth by answering the key questions below.  This was an CareerFoundry assignment with the project breif outline included <a href="https://raw.github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/main/assets/Project#Briefs/A4_Data_Immersion_Project_Brief.pdf" target="_blank">here</a>.
+This analysis for Instacart was performed in order for stakeholders to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth by answering the key questions below.  This was an CareerFoundry assignment with the project breif outline included 
+
+<a href="https://raw.github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/main/assets/Project#Briefs/A4_Data_Immersion_Project_Brief.pdf" target="_blank">here</a>.
 
 
 
