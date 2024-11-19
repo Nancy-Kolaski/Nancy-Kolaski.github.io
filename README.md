@@ -83,7 +83,7 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 
 ***
 
-[<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate image" style="width: 700px; height: auto;">](project4.md)
+[<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate image" style="width: 600px; height: auto;">](project4.md)
 
 
 
