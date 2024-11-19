@@ -51,7 +51,9 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 *** 
 
-<img src="assets/flu.png" alt="flu pic" style="width: 500px; height: auto;">
+<a href="project2.md#project2">
+<img src="assets/flu.png" alt="flu pic" style="width: 500px; height: auto;" />
+</a>
 
 ### **Influenza Analysis**
 
@@ -62,8 +64,9 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 
 ***
 
-
-<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 500px; height: auto;">
+<a href="project3.md#project3">
+<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 500px; height: auto;" />
+</a>
 
 ###  **Rockbuster Stealth Analysis**
 
@@ -74,18 +77,23 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 
 ***
 
-<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 500px; height: auto;">
+<a href="project4.md#project4">
+<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 500px; height: auto;" />
+</a>
 
 ###  **U.S.A. Real Estate Analysis**
 
-[Check out my U.S.A. Real Estate project in more detail](project4.md#project4)
+[Check out my U.S.A. Real Estate project in more detail](project4.md#project4) />
+</a>
 
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
 
 *** 
 ### **Machine Learning**
 
-<img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 500px; height: auto;"> 
+<a href="project5.md#project5">
+<img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 500px; height: auto;" />
+</a>
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
@@ -94,7 +102,9 @@ Using machine learning to predict the consequences of climate change around Euro
 *** 
 ### **GameCo Financial Analysis**  
 
-<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 500px; height: auto;">  
+<a href="project6.md#project5">
+<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 500px; height: auto;"/>
+</a>  
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
