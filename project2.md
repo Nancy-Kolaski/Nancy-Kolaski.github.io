@@ -1,3 +1,7 @@
+ <a href="/">Back to Main Page</a> 
+ 
+***
+
 # Influenza Analysis
 
 <img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
@@ -112,6 +116,8 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
 - Based on the analysis of this data, recommendations include supplying the top 5 states with influenza related deaths and population counts with increased staffing of hospitals and agencies during the months of January as priority, along with the winter months of December through March.
 
 <a href="#top">Back to Top</a>
+
+ <a href="/">Back to Main Page</a> 
 
 
 
