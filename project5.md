@@ -26,24 +26,23 @@ This was an CareerFoundry assignment with the project breif outline included <a 
 Data was collected between 1800s to 2022 by ‘European Climate Assessment and Data Set Project’, consisting of temperature, wind speed, snow, and global radiation from 18 different weather stations. found at [https://www.ecad.eu/](https://www.ecad.eu/) 
 
 
-## Tools
-### For this project, the following Python libraries were used:
- - pandas, numpy, matplotlib, matplotlib.pyplot, os, operator
- - sklearn: .preprocessing, .metrics, .neural_netwrok, MLPCLassifier, .model_selection, train_test_split, .ensemble, tree import plot_tree, .model_selection 
- - RandomForestClassifier, GridSearchCV,  argmax, metrics
- - multilabel_confusion_matrix, accuracy_score, ConfusionMatrixDisplay, StandardScaler
- - tensorflow, keras (keras.models, keras.layers with LSTM), Sequential, Conv1D, Conv2D, Dense, Dropout, BatchNormalization, Flatten, MaxPooling1D
- - scipy: .cluster.hierarchy import dendrogram, linkage, fcluster
- - bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
+## Tools:
+- PowerPoint
+- Github
+- Python (Keras, Tensorflow)
+  - pandas, numpy, matplotlib, matplotlib.pyplot, os, operator
+  - sklearn: .preprocessing, .metrics, .neural_netwrok, MLPCLassifier, .model_selection, train_test_split, .ensemble, tree import plot_tree, .model_selection 
+  - RandomForestClassifier, GridSearchCV,  argmax, metrics
+  - multilabel_confusion_matrix, accuracy_score, ConfusionMatrixDisplay, StandardScaler
+  - tensorflow, keras (keras.models, keras.layers with LSTM), Sequential, Conv1D, Conv2D, Dense, Dropout, BatchNormalization, Flatten, MaxPooling1D
+  - scipy: .cluster.hierarchy import dendrogram, linkage, fcluster
+  -  bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
 
- - Python (Keras, Tensorflow)
- - PowerPoint
- - Github
 
 <img src="assets/ML/tools_logos.png" alt="ML pic" style="width: 300px; height: auto;"> 
 
 
-## Machine Learning Algorithms:
+## Machine Learning Algorithms (supervised and unsupervised):
 - Gradient Descent Optimization
 - K-Nearest Neighbor Algorithm (KNN)
 - Artifical Neural Network (ANN)
@@ -53,6 +52,24 @@ Data was collected between 1800s to 2022 by ‘European Climate Assessment and D
 - Hierachical Clustering with Dendrograms
 - Random Forests
 - Generative Adversarial Network (GANs)
+- Pairplots
+- K-Means Clustering
+- Dendrograms
+- Dimensionality Reduction
+
+  ## Insights:
+
+Optimization lowers the risk of error and improves the accuracy of a model, often used to determine which algorithms to use.  It helps understand valleys and peaks of the local/global landscape of the data.
+
+Gradient Descent (used in both linear and nonlinear data) was used in this study to determine the local minimums and maximums of the data points. 
+
+Three iterations performed, adjusting step lengths (alpha) in order to get a result as near to 0 as possible
+Follow on next slide
+
+![image](https://github.com/user-attachments/assets/850e31d0-c67d-4e7a-9ee0-6f61641a7e7b)
+
+  <img src="assets/ML/gradient_descent_pic.png" alt="ML pic" style="width: 500px; height: auto;"> 
+
 
 
 
