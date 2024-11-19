@@ -137,6 +137,7 @@ Let's take a close look at Belgrade: 3 iterations performed showing loss of func
 - CNNs handle images & numerical data as they were inspired by visual cortex processes of the brain. RNNs handle temporal data such as text, handwriting, and speech. - RNNs also use LSTM (long short-term memory), imitating a brain that forgets unimportant data – updating the significant data as needed)
 
 This CNN Model Confusion Matrix below shows 4 weather classes: 0) cloudy 1) rain 2) sunshine 3) sunrise
+
 <img src="assets/ML/CNN_conf_matrix.png" alt="Random Forest Pic" style="width: 400px; height: auto;">
 
 
