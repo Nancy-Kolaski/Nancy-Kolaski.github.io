@@ -1,10 +1,11 @@
-
-
-
-This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Video Games Project Breif copy.pdf" target="_blank">here</a>.
+# GameCo Financial Analysis
+<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
 ## Introduction:
 GameCo is a video game company that wants to develop new games and establish better marketing strategies. Data analysis looked at different variables that impact sales such as genre/types of games, game platforms, publishers, sales across time (historical to 2016), and sales across geographical regions (North America, Europe, & Japan). The current understanding is that video game sales across global regions of Europe, North America, and Japan generally stay the same over time.  GameCo is investigating to make sure their assumption is correct prior to moving forward with further marketing strategies.
+
+This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Video Games Project Breif copy.pdf" target="_blank">here</a>.
+
 
 ## Goal:
 Analyze regional and temporal sales trends to make more informed business decisions and develop improved marketing strategies.
