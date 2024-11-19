@@ -91,7 +91,7 @@ Using machine learning to predict the consequences of climate change around Euro
 *** 
 ### **GameCo Financial Analysis**  
 
-<img src="assets/ML/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
+<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
