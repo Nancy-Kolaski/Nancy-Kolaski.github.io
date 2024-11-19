@@ -7,6 +7,9 @@
 ## Introduction:
 ClimateWins is a fictional European nonprofit organization, that is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. It’s concerned with extreme weather events, especially in the past 10-20 years. Through use of machine learning, it wants to see if weather conditions can be predicted by looking historically at the temperature highs and lows, and exploring whether conditions can be predicted to a specific given day and can prevent danger.
 
+This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-Achievement-1-Project Brief copy.pdf" target="_blank">here for part 1</a> and <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-with-Python-Achievement-2-Project Brief copy.pdf" target="_blank">here for part 2</a>.
+
+
 ## Objective:
 - Identify weather patterns outside the regional norm in Europe.
 - Determine if unusual weather patterns are increasing.
