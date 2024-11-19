@@ -46,7 +46,7 @@
 ***
 
 
-<a href="github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/project1.md">
+<a href="project1.md">
   <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto />
 </a>
 
