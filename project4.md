@@ -1,3 +1,7 @@
+ <a href="/">Back to Main Page</a> 
+
+***
+
 # U.S.A Real Estate Analysis
 <img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 400px; height: auto;"> 
 
@@ -119,6 +123,9 @@ homes were left out of the seasonality. Next steps would be to clarify this.
 to understand the context of these ranges. Especially acre lots and house sizes marked as '0'. This does not make sense as it is impossible to have a house or
 lot size equal to 0. Next steps would be to clarify the number markers, determine if these were missing values filled in, and eliminate or impute values.
 
-
+***
 
 <a href="#top">Back to Top</a>
+
+<a href="/">Back to Main Page</a> 
+
