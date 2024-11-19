@@ -155,12 +155,13 @@ This CNN Model Confusion Matrix below shows 4 weather classes: 0) cloudy 1) rain
 
 SO, we are now looking specifically at Madrid, Ljubljana, & Munchenb (top 3 stations from top bar chart) & focusing on the specific features identified from bottom chart: maximum temperatures, mean temperatures, and global radiation.
 
-We will run through our GAN and get an image result of our weather prediction.  Below is an example of an incorrect weather prediction:
-<img src="assets/ML/incorrect_pred.png" alt="incorrect prediction" style="width: 400px; height: auto;">  
+I ran through the GAN and got an image result of the weather prediction.  Below is an example of this incorrect weather prediction:
+<img src="assets/ML/incorrect_pred.png" alt="incorrect prediction" style="width: 400px; height: auto;">   <img src="assets/ML/woman_weather.png" alt="Feature bar chart" style="width: 190px; height: auto;">
+  
 
 ***
 
-## Major Insights:
+## Major Insights: 
 - **Supervised and Unsupervised Machine Learning models can make accurate weather predictions**
    - This study has shown slight temperature increase over time, and has potential to generalize to the rest of the world
 - **KNN (K-Nearest Neighbor) model was the best choice** for unsupervised method (88% accuracy, much higher when compared with the other two).
@@ -168,6 +169,7 @@ We will run through our GAN and get an image result of our weather prediction.  
   - Decision Tree was not useful as the data was too deep and complex for a meaningful insight, nor was RNN due to its low accuracy rate and lack of insightful information. These algorithm may run better on sections of data.
 - **Random Forest Algorithms are highly accurate and provide useful breakdown of data** to pinpoint weather data features and top locations
   - Dendrograms are useful in finding outliers or extreme weather events (single) and for finding season trends year round (complete).
+    
 
 ## Recommendations:
 - **Prune Decision Tree data** to reach a better conclusion and avoid overfitting.
@@ -181,6 +183,7 @@ We will run through our GAN and get an image result of our weather prediction.  
   - **Use Random Forest to narrow down the data features** (either by location or year). Create subsets of data on these important variables. Then, run those through a CNN to produce
 higher accuracy. Then, use final results to plug into a GAN to generate more realistic artificial results.
 - **Increase sample size to other parts of the world** besides Europe and run the algorithms again to compare and see if these methods can be used as a generalization for world data.
+
 
 
 
