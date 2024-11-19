@@ -37,8 +37,14 @@ nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Ko
 # Projects: 
 
 ***
+<a href="about.html">
+<img src="assets/insta.jpeg" alt="instacart pic" style="width: 500px; height: auto;" />
+</a>
 
-<img src="assets/insta.jpeg" alt="instacart pic" style="width: 500px; height: auto;">
+<a href="about.html">
+  <img src="assets/home-icon.jpg" alt="Go to About Page" />
+</a>
+
 
 ### **Instacart Basket Analysis**
 
