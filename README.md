@@ -45,15 +45,12 @@
 
 ***
 
-
 <a href="project1.md">
-  <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto />
-</a>
+  <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto" />
+</a> 
 
 
-
-
-### **Instacart Basket Analysis**
+### Instacart Basket Analysis
 
 
 [Check out my Instacart project in more detail](project1.md#project1)
