@@ -1,3 +1,7 @@
+ <a href="/">Back to Main Page</a> 
+
+***
+
 # **Rockbuster Stealth, LLC Analysis**
 
 <img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 300px; height: auto;">
@@ -111,6 +115,9 @@ Average rental duration is around 5 days for all videos
 - Focus marketing for Rockbuster in the higher populated regions since they produce more revenue
 - Introduce more movies with language dialects native to these top countries: India, China, Japan, Brazil, & Mexico
 
+***
+
+<a href="/">Back to Main Page</a> 
 
 <a href="#top">Back to Top</a>
 
