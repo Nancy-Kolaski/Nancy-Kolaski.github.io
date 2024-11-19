@@ -46,7 +46,11 @@
 ***
 
 
-[![Project Image](assets/insta.jpeg)](project1.md)
+[![Project Image](asse  ts/insta.jpeg)](project1.md)
+
+<a href="project1.html">
+  <img src="assets/insta.jpeg" alt="Click to view project details" />
+</a>
 
 
 
