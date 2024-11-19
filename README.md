@@ -49,10 +49,6 @@
 [![Project Image](assets/insta.jpeg)](project1.md)
 
 
-<a href="github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/project1.md/project1">
-  <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto" />
-</a> 
-
 
 ### Instacart Basket Analysis
 
