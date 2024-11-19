@@ -38,7 +38,7 @@ nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Ko
 
 ***
 
-<img src="assets/instacart-image.jpeg" alt="instacart pic" style="width: 400px; height: auto;">
+<img src="assets/insta.jpeg" alt="instacart pic" style="width: 500px; height: auto;">
 
 ### **Instacart Basket Analysis**
 
@@ -48,7 +48,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 *** 
 
-<img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
+<img src="assets/flu.png" alt="flu pic" style="width: 500px; height: auto;">
 
 ### **Influenza Analysis**
 
@@ -60,7 +60,7 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 ***
 
 
-<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 300px; height: auto;">
+<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 500px; height: auto;">
 
 ###  **Rockbuster Stealth Analysis**
 
@@ -71,7 +71,7 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 
 ***
 
-<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 400px; height: auto;">
+<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 500px; height: auto;">
 
 ###  **U.S.A. Real Estate Analysis**
 
@@ -82,7 +82,7 @@ Investigation of real estate across different regions of the United States, diss
 *** 
 ### **Machine Learning**
 
-<img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 300px; height: auto;"> 
+<img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 500px; height: auto;"> 
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
@@ -91,7 +91,7 @@ Using machine learning to predict the consequences of climate change around Euro
 *** 
 ### **GameCo Financial Analysis**  
 
-<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
+<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 500px; height: auto;">  
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
