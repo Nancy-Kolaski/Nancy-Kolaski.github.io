@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Project 1"
+permalink: /project1/
+---
+
+ 
  <a href="/">Back to Main Page</a> 
 
 ***
