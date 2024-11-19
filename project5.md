@@ -1,5 +1,5 @@
 
-# Machine Learning - ClimateWins Weather Predictions & Climate Change
+# ClimateWins Weather Predictions & Climate Change - Machine Learning
 <img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 400px; height: auto;"> 
 
 <img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [Github Respository](https://github.com/Nancy-Kolaski/ML-ClimateWins/tree/main)
