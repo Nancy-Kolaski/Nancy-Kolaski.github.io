@@ -90,7 +90,7 @@ Investigation of real estate across different regions of the United States, diss
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
-Using machine learning to help predict the consequences of climat change aroudn Europe and, potentially, the world.  This analysis investigates the potential of using historical weather data to make weather predictions.
+Using machine learning to predict the consequences of climate change around Europe and, potentially, the world.  This analysis investigates the potential of using historical weather data to make weather predictions.
 
 *** 
 ### **GameCo Financial Analysis**
