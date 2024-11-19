@@ -86,3 +86,7 @@ This data set covered historical video games sales (for games that sold more tha
 - Marketing focus in Europe:
   - More marketing in general should be concentrated in Europe as they have brought in more sales than North America for the first time ever in 2016,
 and could potentially continue to be a top consumer of GameCo video games in the future.
+
+
+
+<a href="#top">Back to Top</a>
