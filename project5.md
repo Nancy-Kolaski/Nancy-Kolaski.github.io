@@ -185,5 +185,5 @@ higher accuracy. Then, use final results to plug into a GAN to generate more rea
 - **Increase sample size to other parts of the world** besides Europe and run the algorithms again to compare and see if these methods can be used as a generalization for world data.
 
 
-
+<a href="#top">Back to Top</a>
 
