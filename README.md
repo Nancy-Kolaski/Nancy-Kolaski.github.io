@@ -50,9 +50,6 @@
   <img src="/assets/insta.jpeg" alt="Go to Instacart page" style="width: 500px; height: auto;" />
 </a>
 
-<a href="project1.md#project1">
-<img src="/assets/insta.jpeg" alt="My Image" />
-</a>
 
 [<img src="/assets/insta.jpeg>](project1.md#project1)
 
