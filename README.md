@@ -110,6 +110,13 @@ Using machine learning to predict the consequences of climate change around Euro
 
 Assist GameCo Video Game company in eveloping new games and establish better marketing strategies across North America, Europe, and Japan.
 
+***
+# CONTACT ME: 
+
+nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> &bull; [LinkedIn](https://www.linkedin.com/in/nancy-kolaski-040b222b0/) &bull;
+[GitHub Repositories](https://github.com/Nancy-Kolaski) &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
+
+***
 
 <a href="#top">Back to Top</a>
 
