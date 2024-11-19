@@ -45,15 +45,14 @@
 ***
 
 
-[![Project Image](assets/insta.jpeg)](project1.md)
-[<img src="assets/insta.jpeg" alt="Project Image" style="width: 500px; height: auto;">](project1.md)
+[<img src="assets/insta.jpeg" alt="Project Image" style="width: 550px; height: auto;">](project1.md)
 
 
 
 ### Instacart Basket Analysis
 
 
-[Check out my Instacart project in more detail](project1.md#project1) style="width: 500px; height: auto" 
+[Check out my Instacart project in more detail](project1.md#project1) 
 
 Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. 
 
@@ -61,8 +60,6 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 
 [![Project Image](assets/flu.png)](project2.md)
-
-
 
 
 ### **Influenza Analysis**
@@ -74,9 +71,8 @@ Preparing medical staffing agencies with appropriate staffing in anticipation fo
 
 ***
 
-<a href="project3.md#project3">
-<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 500px; height: auto;" />
-</a>
+[<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster image" style="width: 600px; height: auto;">](project3.md)
+
 
 ###  **Rockbuster Stealth Analysis**
 
@@ -87,13 +83,13 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 
 ***
 
-<a href="project4.md#project4">
-<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 500px; height: auto;" />
-</a>
+[<img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate image" style="width: 700px; height: auto;">](project4.md)
+
+
 
 ###  **U.S.A. Real Estate Analysis**
 
-[Check out my U.S.A. Real Estate project in more detail](project4.md#project4) />
+[Check out my U.S.A. Real Estate project in more detail](project4.md#project5) />
 </a>
 
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
@@ -101,9 +97,10 @@ Investigation of real estate across different regions of the United States, diss
 *** 
 ### **Machine Learning - ClimateWins Weather Predictions & Climate Change**
 
-<a href="project5.md#project5">
-<img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 500px; height: auto;" />
-</a>
+
+[<img src="assets/ML/ML_pic.png" alt="ML image" style="width: 600px; height: auto;">](project5.md)
+
+
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
@@ -112,9 +109,8 @@ This project used real weather data from Europe to guide a fictional company, Cl
 *** 
 ### **GameCo Financial Analysis**  
 
-<a href="project6.md#project5">
-<img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 500px; height: auto;"/>
-</a>  
+[<img src="assets/Gameco/mult_games_pic.jpg" alt="games image" style="width: 600px; height: auto;">](project6.md)
+
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
