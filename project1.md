@@ -3,10 +3,11 @@
 ***
 
 # Instacart Baket Analysis
-<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [GitHub Repository](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/Instacart%20Basket%20Analysis/Instacart_Presentation.pdf)
-
 
 <img src="assets/insta.jpeg" alt="instacart pic" style="width: 400px; height: auto;">
+
+<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [GitHub Repository](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/Instacart%20Basket%20Analysis/Instacart_Presentation.pdf)
+
 
 This analysis for Instacart was performed in order for stakeholders to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth by answering the key questions below.  
 
