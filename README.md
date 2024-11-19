@@ -44,9 +44,18 @@
 # Projects: 
 
 ***
+
 <a href="project1.md#project1">
-  <img src="assets/insta.jpeg" alt="Go to Instacart page" style="width: 500px; height: auto;" />
+<img src="https://raw.github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/main/assets/insta.jpeg" alt="Image" style="width: 500px; height: auto;" />
 </a>
+
+
+
+
+
+
+
+
 
 
 
