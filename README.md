@@ -3,8 +3,7 @@ nancykolaski@gmail.com
 
 [Resume](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/kolaski-Nancy-resume.pdf) -
 [LinkedIn profile](https://www.linkedin.com/in/nancy-kolaski-040b222b0/) - 
-[GitHub Repositories](https://github.com/Nancy-Kolaski) - 
-[View complete portfolio](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/raw/main/NK%20Data%20Analytics%20Portfolio%20(6).pdf)
+[GitHub Repositories](https://github.com/Nancy-Kolaski) - <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
 
 
 
