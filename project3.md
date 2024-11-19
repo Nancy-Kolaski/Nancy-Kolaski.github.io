@@ -10,6 +10,9 @@
 ## **Introduction:**
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental services in order to stay competitive.
 
+This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A3_Data_Project_Brief  copy.pdf" target="_blank">here</a>.
+
+
 ## **Goal:**
 Assist the Rockbuster Stealth business intelligence department, via SQL queries, in preparation for their 2020 market strategies, providing data-driven insights for a redefined approach for sales improvement.
 
