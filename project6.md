@@ -20,7 +20,20 @@ Analyze regional and temporal sales trends to make more informed business decisi
 ## Tools:
 - Excel
 - Power Point
+<img src="assets/Gameco/tools_logos.png" alt="games pic" style="width: 70px; height: auto;">  
+
+
 
 ## Data:
 This data set covered historical video games sales (for games that sold more than 10,000 copies) spanning different platforms, games, and publishing studios.  This data was drawn from [vgchartz.com](https://www.vgchartz.com/methodology.php).
+
+*** 
+
+## Insights:
+- North America consistently generates the most video game sales in history, even during fluctuations.
+  - This line graph demonstrates the positive correlation between North American sales and global sales.
+  - Note that there is a steady and sudden decrease in sales after the peak from 2008-2010.  Global sales dropped from a peak of $679.9 million to $70.93 million in 2016.
+
+<img src="assets/Gameco/region_sales.png" alt="Regional Sales" style="width: 800px; height: auto;">  
+
 
