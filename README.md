@@ -46,18 +46,18 @@
 ***
 
 
+<a href="github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/project1.md">
+  <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto />
+</a>
+
+
 <a href="project1.md#project1">
   <img src="assets/insta.jpeg" alt="Go to Instacart page" style="width: 500px; height: auto;" />
 </a>
 
 
-<a href="path/to/project1.md">
-  <img src="assets/insta.jpeg" alt="Instacart Image Link" style="width: 500px; height: auto />
-</a>
-
-
-
 ### **Instacart Basket Analysis**
+
 
 [Check out my Instacart project in more detail](project1.md#project1)
 
