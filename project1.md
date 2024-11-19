@@ -130,4 +130,5 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 
  
 <a href="#top">Back to Top</a>
-<a href="../index.html">Back to Main Page</a>
+
+<a href="../README.md">Back to Main Page</a>
