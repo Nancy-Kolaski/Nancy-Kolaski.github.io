@@ -8,6 +8,8 @@
 ## Introduction:
 This is an analysis of real estate data for the U.S.A., looking at trends and correlations, via python, to determine factors that most influence the real estate market.  Location, seasonality, and house size had the biggest influence on this data set.  
 
+This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Data_Immersion_A6_Project_Brief copy.pdf" target="_blank">here</a>.
+
 ## Goal:
 Analyze the United States real estate market to see what factors or variables influence sales the most.
 
