@@ -1,3 +1,7 @@
+ <a href="/">Back to Main Page</a> 
+
+***
+
 # GameCo Financial Analysis
 <img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
@@ -88,5 +92,10 @@ This data set covered historical video games sales (for games that sold more tha
 and could potentially continue to be a top consumer of GameCo video games in the future.
 
 
+***
 
 <a href="#top">Back to Top</a>
+
+<a href="/">Back to Main Page</a> 
+
+
