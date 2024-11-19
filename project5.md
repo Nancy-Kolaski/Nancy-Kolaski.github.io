@@ -1,3 +1,6 @@
+ <a href="/">Back to Main Page</a> 
+
+***
 
 # ClimateWins Weather Predictions & Climate Change - Machine Learning
 <img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 400px; height: auto;"> 
@@ -184,6 +187,10 @@ I ran through the GAN and got an image result of the weather prediction.  Below 
 higher accuracy. Then, use final results to plug into a GAN to generate more realistic artificial results.
 - **Increase sample size to other parts of the world** besides Europe and run the algorithms again to compare and see if these methods can be used as a generalization for world data.
 
+***
 
 <a href="#top">Back to Top</a>
+
+<a href="/">Back to Main Page</a> 
+
 
