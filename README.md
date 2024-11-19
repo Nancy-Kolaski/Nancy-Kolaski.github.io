@@ -37,8 +37,7 @@
 |   <center> * Machine Learning   </center>                           |                       
 
 
-<img src="assets/tools-logos.png" alt="tools logos" style="width: 625px; height: auto;">   
-
+<img src="assets/tools-logos.png" alt="tools logos" style="width: 625px; height: auto">
 ***
 
 # Projects: 
@@ -47,21 +46,22 @@
 
 
 [![Project Image](assets/insta.jpeg)](project1.md)
+[<img src="assets/insta.jpeg" alt="Project Image" style="width: 500px; height: auto;">](project1.md)
 
 
 
 ### Instacart Basket Analysis
 
 
-[Check out my Instacart project in more detail](project1.md#project1)
+[Check out my Instacart project in more detail](project1.md#project1) style="width: 500px; height: auto" 
 
 Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. 
 
 *** 
 
-<a href="project2.md#project2">
-<img src="assets/flu.png" alt="flu pic" style="width: 500px; height: auto;" />
-</a>
+
+[![Project Image](assets/flu.png)](project2.md)
+
 
 
 
