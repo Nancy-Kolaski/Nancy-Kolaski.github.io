@@ -54,8 +54,7 @@
 <img src="/assets/insta.jpeg" alt="My Image" />
 </a>
 
-
-
+[<img src="/assets/insta.jpeg>](project1.md#project1)
 
 
 
