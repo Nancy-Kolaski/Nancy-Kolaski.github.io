@@ -1,6 +1,6 @@
 #### Data Analyst 
-nancykolaski@gmail.com - <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> - [LinkedIn](https://www.linkedin.com/in/nancy-kolaski-040b222b0/) - 
-[GitHub Repositories](https://github.com/Nancy-Kolaski) - <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
+nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> &bull; [LinkedIn](https://www.linkedin.com/in/nancy-kolaski-040b222b0/) &bull;
+[GitHub Repositories](https://github.com/Nancy-Kolaski) &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
 
 
 
