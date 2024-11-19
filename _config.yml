@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title: My GitHub Pages Site
+description: A description of your site
+theme: jekyll-theme-slate
+markdown: kramdown  # ensure this is set to process markdown files
