@@ -51,10 +51,6 @@
 </a>
 
 
-<a href="project1.md#project1">
-  <img src="assets/insta.jpeg" alt="Go to Instacart page" style="width: 500px; height: auto;" />
-</a>
-
 
 ### **Instacart Basket Analysis**
 
