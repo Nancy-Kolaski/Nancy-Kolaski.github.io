@@ -129,9 +129,8 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
   
   * **Because of the amount of time invested, I found that this was a great learning toolfor me to fully understand python and jupyter notebook. I grew a great appreciation for python with hands on work throughout the tasks involved. As my knowledge grew, I found it fun to dissect and manipulate this large dataset to find the key insights that I was targeting. I spent time deep diving into this coursework since I knew that this process was going to be essential for my future work as a data analyst.**
 
-
-
+***
  
 <a href="#top">Back to Top</a>
 
- <a href="/">Back to Main Page</a> 
+<a href="/">Back to Main Page</a> 
