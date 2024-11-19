@@ -15,7 +15,7 @@ nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Ko
 
 
 
-### Skills
+## Skills:
 
 
 | <center>Analytical Skills</center>                                 | <center>Professional Skills</center>           | <center>Tools</center>           |
@@ -89,7 +89,7 @@ Rockbuster Stealth is a movie rental company that used to have stores around the
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.
 
 *** 
-### **Machine Learning**
+### **Machine Learning - ClimateWins Weather Predictions & Climate Change**
 
 <a href="project5.md#project5">
 <img src="assets/ML/ML_pic.png" alt="ML pic" style="width: 500px; height: auto;" />
