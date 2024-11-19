@@ -58,8 +58,8 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 *** 
 
+[<img src="assets/flu.png" alt="flu Image" style="width: 550px; height: auto;">](project2.md)
 
-[![Project Image](assets/flu.png)](project2.md)
 
 
 ### **Influenza Analysis**
