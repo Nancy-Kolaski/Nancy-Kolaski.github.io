@@ -38,11 +38,7 @@ nancykolaski@gmail.com &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Ko
 
 ***
 <a href="about.html">
-<img src="assets/insta.jpeg" alt="instacart pic" style="width: 500px; height: auto;" />
-</a>
-
-<a href="about.html">
-  <img src="assets/home-icon.jpg" alt="Go to About Page" />
+  <img src="assets/insta.jpeg" alt="instacart pic" style="width: 500px; height: auto;" />
 </a>
 
 
