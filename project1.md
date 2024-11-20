@@ -13,17 +13,16 @@ This analysis was performed as a mock investigation for Instacart stakeholders t
 
 This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A4_Data_Immersion_Project_Brief.pdf" target="_blank">here</a>.
 
-## Data link 
-
-There were four data sets in this analysis, containing information on products, customers , orders, and departments.  They can be found at
-[https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017 ) via kaggle.com
-
-
 ## Key Questions
 - What are the busiest days of the week and hours of the day? 
 - What are the particular times of day when people spend the most money?
 - How can product price tags by simplified into price range groupings to help Marketing and Sales efforts?
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
+
+## Data link 
+
+There were four data sets in this analysis, containing information on products, customers , orders, and departments.  They can be found at
+[https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017 ) via kaggle.com
 
 
 ## **Skills:**
