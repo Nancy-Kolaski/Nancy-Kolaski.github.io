@@ -15,6 +15,7 @@ This was an CareerFoundry assignment with the project breif outline included <a 
 
 ## Data link 
 
+There were four data sets in this analysis, containing information on products, customers , orders, and departments.  They can be found at
 [https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017 ) via kaggle.com
 
 
