@@ -45,7 +45,7 @@
 ***
 
 
-[<img src="assets/insta.jpeg" alt="Project Image" style="width: 550px; height: auto;">](project1.md)
+[<img src="assets/insta.jpeg" alt="Project Image" style="width: 650px; height: auto;">](project1.md)
 
 
 
@@ -58,7 +58,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 *** 
 
-[<img src="assets/flu.png" alt="flu Image" style="width: 550px; height: auto;">](project2.md)
+[<img src="assets/flu.png" alt="flu Image" style="width: 650px; height: auto;">](project2.md)
 
 
 
@@ -72,7 +72,7 @@ The purpose of this analysis was to prepare medical staffing agencies with appro
 
 ***
 
-[<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster image" style="width: 600px; height: auto;">](project3.md)
+[<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster image" style="width: 650px; height: auto;">](project3.md)
 
 
 ###  **Rockbuster Stealth Analysis**
