@@ -12,7 +12,7 @@
 <img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [Github Repository](https://github.com/Nancy-Kolaski/SQL-RockbusterVideoRental)
 
 ## **Introduction:**
-Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental services in order to stay competitive.
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental services in order to stay competitive.  This was a mock company created for CareerFoundry analytic students.
 
 This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A3_Data_Project_Brief  copy.pdf" target="_blank">here</a>.
 
