@@ -96,24 +96,28 @@ Rockbuster Stealth is a mock movie rental company that used to have stores aroun
 Investigation of real estate across different regions of the United States, dissecting different variables to see their imact on the market.  This was a project that CareerFoundry allowed analytics students to choose a topic of their choice.  I chose real estate to explore for this open-ended task.
 
 *** 
-### **Machine Learning - ClimateWins Weather Predictions & Climate Change**
-
 
 [<img src="assets/ML/ML_pic.png" alt="ML image" style="width: 600px; height: auto;">](project5.md)
+
+### **Machine Learning - ClimateWins Weather Predictions & Climate Change**
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
 This project used real weather data from Europe to guide a fictional company, ClimateWins, in using machine learning to predict the consequences of climate change around Europe and, potentially, the world.  This analysis investigated and justified the potential for using machine learning in weather predictions.  This project was performed during the Machine Learning Specialization portion of my coursework, introducing concepts for both supervised and unsupervised algorithms.
 
-### **GameCo Financial Analysis**  
+***
 
 [<img src="assets/Gameco/mult_games_pic.jpg" alt="games image" style="width: 600px; height: auto;">](project6.md)
+
+### **GameCo Financial Analysis**  
+
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
 Assist GameCo Video Game company (a mock company) in developing new games and establish better marketing strategies across North America, Europe, and Japan using historical data since the 1980s.
 
 ***
+
 # CONTACT ME: 
 
 &bull; nancykolaski@gmail.com
