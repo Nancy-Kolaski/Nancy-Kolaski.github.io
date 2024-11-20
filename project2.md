@@ -24,6 +24,7 @@ If a person is 65+ years old, then they are more likely to die by flu.
 
 
 ## Data link 
+This analysis utilized public databases from CDC & US Census Bureau consisting of influenza deaths by geography, population data , counts of influenza laboratory test results by state (in survery form), and surveys of flue shot rates in children.  The links are provided below.
 
 [Influenza Deaths](https://wonder.cdc.gov/ucd-icd10.html) |
 [Vaccine Data](https://www.cdc.gov/vaccines/imz-managers/nis/about.html) |
@@ -78,7 +79,7 @@ The second scatterplot looks only within the vulnerable (65+ years) populations.
 
 **3. The third step was to find out WHEN these deaths are taking place**
 
-This line chart shows a trend of winter months within 2009-2017, specifically january, but higher flu deaths notable in Decmeber through March. 
+This line chart shows a trend of winter months within 2009-2017, specifically january, but higher flu deaths notable in December through March. 
 
 <img src="assets/seasonality_pic.png" alt="seasonality pic" style="width: 600px; height: auto;">
 
