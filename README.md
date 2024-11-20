@@ -111,7 +111,7 @@ This project used real weather data from Europe to guide a fictional company, Cl
 
 [Check out my GameCo project in more detail](project6.md#projec6)
 
-Assist GameCo Video Game company (a mock company) in developing new games and establish better marketing strategies across North America, Europe, and Japan.
+Assist GameCo Video Game company (a mock company) in developing new games and establish better marketing strategies across North America, Europe, and Japan using historical data since the 1980s.
 
 ***
 # CONTACT ME: 
