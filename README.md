@@ -37,7 +37,7 @@
 |   <center> * Machine Learning   </center>                           |                       
 
 
-<img src="assets/tools-logos.png" alt="tools logos" style="width: 625px; height: auto">
+<img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
 ***
 
 # Projects: 
