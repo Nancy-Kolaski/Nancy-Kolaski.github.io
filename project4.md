@@ -50,7 +50,7 @@ The following python libraries were used for this project
 
 [https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) 
 
--The dataset was one large csv file with information including
+The dataset was one large csv file with information including
   - location factors: address, zip, city, state
   - previous sold dates
   - house size
