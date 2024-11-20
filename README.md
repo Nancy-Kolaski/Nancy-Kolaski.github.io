@@ -54,7 +54,7 @@
 
 [Check out my Instacart project in more detail](project1.md#project1) 
 
-Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns. 
+Instacart is a well known and widely used online grocery shopping service looking to uncover more information on their sales patterns.  This project was utilized through CareerFoundry with the purpose of introducing python to students, enabling opportunities to dissect a mock data set for the company.  
 
 *** 
 
