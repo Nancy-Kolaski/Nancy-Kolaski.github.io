@@ -13,16 +13,9 @@ This analysis for Instacart was performed in order for stakeholders to better un
 
 This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A4_Data_Immersion_Project_Brief.pdf" target="_blank">here</a>.
 
-
-
-
 ## Data link 
 
-
-
 [https://www.instacart.com/datasets/grocery-shopping-2017](https://www.instacart.com/datasets/grocery-shopping-2017 ) via kaggle.com
-
-
 
 
 ## Key Questions
