@@ -7,11 +7,12 @@
 <a href="#Projects" class="btn">Projects</a> |
 <a href="#Contact Me" class="btn">Contact Me</a> |
 <a href="[git](https://github.com/Nancy-Kolaski)">
-  <img src="path/to/your/logo.png" alt="Logo" width="100" height="100">
+  <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+</a>
+<a href="[linked in](https://www.linkedin.com/in/nancy-kolaski-040b222b0/)">
+  <img src="assets/Linkedin_logo.jpg" alt="Logo" class="align-bottom" style="display: inline-block; vertical-align: bottom; width: 30px;">
 </a>
 
-
----
 
 <a id="Contact Me"></a>
 # Contact Me
