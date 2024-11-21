@@ -1,6 +1,6 @@
 
 
-### Data Analyst
+## Data Analyst
 
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
@@ -8,7 +8,7 @@
 <a href="#Contact Me" class="btn">Contact Me</a> 
 
 <a id="Contact Me"></a>
-# Contact Me
+### Contact Me
 
 <a href="mailto:nancykolaski@gmail.com">
   <img src="assets/email-logo.png" alt="Contact Me" width="30" height="30">
