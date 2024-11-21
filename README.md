@@ -2,7 +2,7 @@
 
 ### Data Analyst
 
-<a href="#Contact Me" class="btn">Contact Me</a>
+<a href="#Contact Me" class="btn">Contact Me</a> |
 <a href="#About Me" class="btn">About Me</a>  |
 <a href="#Projects" class="btn">Projects</a>  |
 
@@ -15,8 +15,8 @@
 
 
 <!-- Navigation Links -->
-<a href="#About Me" class="btn">About Me</a>
-<a href="#Projects" class="btn">Projects</a>
+<a href="#About Me" class="btn">About Me</a> |
+<a href="#Projects" class="btn">Projects</a> |
 <a href="#Contact Me" class="btn">Contact Me</a>
 
 ## About Me
