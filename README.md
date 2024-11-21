@@ -10,7 +10,9 @@
 <a id="Contact Me"></a>
 # Contact Me
 
-Feel free to [email me](mailto:nancykolaski@gmail.com).
+<a href="mailto:nancykolaski@gmail.com">
+  <img src="assets/email-logo.png" alt="Contact Me" width="30" height="30">
+</a>
 &bull; <a href="https://github.com/Nancy-Kolaski">
   <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
@@ -20,6 +22,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
   <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
 </a>
+
 
 
 ***
