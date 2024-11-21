@@ -1,3 +1,23 @@
+# My GitHub Pages Website
+
+Welcome to my website! Here are some sections:
+
+- [About Me](#about)
+- [Projects](#projects)
+- [Contact Me](#contact)
+
+## About Me
+This is the about section.
+
+## Projects
+This is the projects section.
+
+## Contact Me
+This is the contact section.
+
+---
+
+Feel free to [email me](mailto:someone@example.com).
 
 
 
