@@ -17,8 +17,9 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 #### Data Analyst 
 
-# Contact Me
 <a id="Contact Me"></a>
+# Contact Me
+
 
 &bull; nancykolaski@gmail.com  
 
