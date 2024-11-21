@@ -5,34 +5,22 @@
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
 <a href="#Projects" class="btn">Projects</a> |
-<a href="#Contact Me" class="btn">Contact Me</a> |
-<a href="https://github.com/Nancy-Kolaski">
-  <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
-</a>
-<a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
-  <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="30">
-</a>
-<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">
-  <button>Visit My Full Portfolio</button>
-</a>
-
-
-<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; cursor: pointer;">Visit My Portfolio</a>
-
+<a href="#Contact Me" class="btn">Contact Me</a> 
 
 <a id="Contact Me"></a>
 # Contact Me
 
 Feel free to [email me](mailto:nancykolaski@gmail.com).
-
-<a href="https://github.com/Nancy-Kolaski">
+&bull; <a href="https://github.com/Nancy-Kolaski">
   <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
-<a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
-  <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="40">
+&bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
+  <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="30">
+</a>
+&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">
+  <button>Visit My Full Portfolio</button>
 </a>
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> 
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
 
 ***
 <a id="About Me"></a>
