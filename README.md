@@ -32,9 +32,9 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
 
 ***
-
-# About Me  
 <a id="About Me"></a>
+# About Me  
+
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 400px; height: auto;">
 
