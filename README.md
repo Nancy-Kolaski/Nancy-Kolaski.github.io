@@ -22,7 +22,7 @@ Data Analyst
 
 #### Data Analyst 
 
-## Contact Me
+# Contact Me
 Get in touch:
 Feel free to [email me](mailto:nancykolaski@gmail.com).
 
