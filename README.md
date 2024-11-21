@@ -7,6 +7,8 @@
 &bull; <a href="#Projects" class="btn">Projects</a> 
 &bull; <a href="#Contact Me" class="btn">Contact Me</a> 
 
+***
+
 <a id="Contact Me"></a>
 ### Contact Me
 
