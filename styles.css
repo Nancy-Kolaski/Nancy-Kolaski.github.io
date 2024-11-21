@@ -1,1 +1,61 @@
+/* Reset default styles */
+body, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.menu {
+    list-style-type: none;
+    text-align: center;
+}
+
+.menu li {
+    display: inline-block;  /* Display list items horizontally */
+    margin: 0 20px;         /* Add space between menu items */
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 10px 15px;
+    display: block;
+}
+
+.menu li a:hover {
+    background-color: #555;
+    border-radius: 5px;  /* Optional: rounded corners for the hover effect */
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+}
+
+/* Optional: Smooth scrolling for anchor links */
+html {
+    scroll-behavior: smooth;
+}
 
