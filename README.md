@@ -2,9 +2,9 @@
 
 ### Data Analyst
 
-<a href="#About Me" class="btn">About Me</a>  |
-<a href="#Projects" class="btn">Projects</a>  |
-<a href="#CONTACT ME" class="btn">Contact Me</a>
+<a href="#About Me:" class="btn">About Me</a>  |
+<a href="#Projects:" class="btn">Projects</a>  |
+<a href="#CONTACT ME:" class="btn">Contact Me</a>
 
 ---
 
