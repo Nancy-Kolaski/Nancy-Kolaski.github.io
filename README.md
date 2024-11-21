@@ -9,17 +9,10 @@
 
 ---
 
-Feel free to [email me](mailto:nancykolaski@gmail.com).
-
-
-
-
-
-#### Data Analyst 
-
 <a id="Contact Me"></a>
 # Contact Me
 
+Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 &bull; nancykolaski@gmail.com  
 
