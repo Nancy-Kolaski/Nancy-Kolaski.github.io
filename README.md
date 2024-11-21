@@ -18,7 +18,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
   <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="30">
 </a>
 <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-  <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
 </a>
 
 
@@ -58,7 +58,11 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 # Projects: 
 
 ***
+<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
+</a>
 
+***
 
 [<img src="assets/insta.jpeg" alt="Project Image" style="width: 650px; height: auto;">](project1.md)
 
@@ -143,7 +147,9 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 
 &bull; [GitHub Repositories](https://github.com/Nancy-Kolaski) 
 
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
+<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
+</a>
 
 ***
 
