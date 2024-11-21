@@ -2,18 +2,6 @@
 
 ### Data Analyst
 
-<a href="#Contact Me" class="btn">Contact Me</a> |
-<a href="#About Me" class="btn">About Me</a>  |
-<a href="#Projects" class="btn">Projects</a>
-
-
----
-
-
-
-
-
-
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
 <a href="#Projects" class="btn">Projects</a> |
@@ -44,6 +32,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 ***
 
 # About Me  
+<a id="about"></a>
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 400px; height: auto;">
 
