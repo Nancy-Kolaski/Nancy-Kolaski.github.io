@@ -1,6 +1,6 @@
 
 
-## Data Analyst
+# Data Analyst
 
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
