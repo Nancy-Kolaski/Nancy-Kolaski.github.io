@@ -1,5 +1,20 @@
+# Nancy Kolaski
+
+Data Analyst
+
+<a href="#about" class="btn">About Me</a> * 
+<a href="#projects" class="btn">Projects</a> * 
+<a href="#contact" class="btn">Contact Me</a>
+
+## About Me
+This is the about section.
+
+## Projects
+This is the projects section.
 
 
+
+---
 
 
 
@@ -8,6 +23,10 @@
 
 
 #### Data Analyst 
+
+## Contact Me
+Get in touch:
+Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 &bull; nancykolaski@gmail.com  
 
