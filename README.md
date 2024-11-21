@@ -18,7 +18,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
   <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="30">
 </a>
 <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-  <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
 </a>
 
 
