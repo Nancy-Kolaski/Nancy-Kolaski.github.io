@@ -17,12 +17,13 @@
 &bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
   <img src="assets/LI.avif" alt="Logo" width="30" height="30">
 </a> 
+&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf">
+  <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30">
+</a>
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
   <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
 </a>
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf">
-  <img src="assets/R_pic.png" alt="Contact Me" width="30" height="30">
-</a> 
+
 
 
 ***
