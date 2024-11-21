@@ -5,7 +5,11 @@
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
 <a href="#Projects" class="btn">Projects</a> |
-<a href="#Contact Me" class="btn">Contact Me</a> 
+<a href="#Contact Me" class="btn">Contact Me</a> |
+<a href="[git](https://github.com/Nancy-Kolaski)">
+  <img src="path/to/your/logo.png" alt="Logo" width="100" height="100">
+</a>
+
 
 ---
 
