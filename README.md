@@ -17,19 +17,7 @@
 <!-- Navigation Links -->
 <a href="#About Me" class="btn">About Me</a> |
 <a href="#Projects" class="btn">Projects</a> |
-<a href="#Contact Me" class="btn">Contact Me</a>
-
-## About Me
-<a id="About Me"></a>
-This is the about section.
-
-## Projects
-<a id="Projects"></a>
-This is the projects section.
-
-## Contact Me
-<a id="Contact Me"></a>
-This is the contact section.
+<a href="#Contact Me" class="btn">Contact Me</a> 
 
 ---
 
@@ -42,9 +30,6 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 #### Data Analyst 
 
 # Contact Me
-
-Get in touch:
-Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 &bull; nancykolaski@gmail.com  
 
