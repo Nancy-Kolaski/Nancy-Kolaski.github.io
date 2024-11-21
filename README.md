@@ -14,6 +14,12 @@
 </a>
 
 
+<a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
+  <img src="assets/Linkedin_logo.jpg" alt="Logo" width="30" height="30">
+</a>
+
+
+
 <a id="Contact Me"></a>
 # Contact Me
 
