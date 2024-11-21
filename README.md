@@ -140,18 +140,21 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 
 ***
 
-# CONTACT ME: 
+### Contact Me
 
-&bull; nancykolaski@gmail.com
-
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> 
-
-&bull; [LinkedIn](https://www.linkedin.com/in/nancy-kolaski-040b222b0/) 
-
-&bull; [GitHub Repositories](https://github.com/Nancy-Kolaski) 
-
-<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-  <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
+<a href="mailto:nancykolaski@gmail.com">
+  <img src="assets/email-logo.png" alt="Contact Me" width="30" height="30">
+</a> 
+&bull; <a href="https://github.com/Nancy-Kolaski"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+</a>
+&bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
+  <img src="assets/LI.avif" alt="Logo" width="30" height="30">
+</a> 
+&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf">
+  <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30">
+</a>
+&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
 </a>
 
 ***
