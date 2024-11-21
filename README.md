@@ -9,7 +9,7 @@
 
 #### Data Analyst 
 
-&bull; nancykolaski@gmail.com  Feel free to [email me](mailto:nancykolaski@gmail.com).
+&bull; nancykolaski@gmail.com  
 
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> 
 
