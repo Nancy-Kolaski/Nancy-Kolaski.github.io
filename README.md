@@ -18,6 +18,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 #### Data Analyst 
 
 # Contact Me
+<a id="Contact Me"></a>
 
 &bull; nancykolaski@gmail.com  
 
@@ -62,7 +63,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 ***
 
 # Projects: 
-
+<a id="Projects"></a>
 ***
 
 
