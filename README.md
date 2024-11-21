@@ -4,7 +4,7 @@
 
 <a href="#About Me" class="btn">About Me</a>  |
 <a href="#Projects" class="btn">Projects</a>  |
-<a href="#Contact Me" class="btn">Contact Me</a>
+<a href="#Contact Me" class="btn">CONTACT MEe</a>
 
 ---
 
@@ -42,7 +42,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 
 
-## Skills:
+# Skills:
 
 
 | <center>Analytical Skills</center>                                 | <center>Professional Skills</center>           | <center>Tools</center>           |
@@ -82,7 +82,7 @@ Instacart is a well known and widely used online grocery shopping service lookin
 
 
 
-### **Influenza Analysis**
+### Influenza Analysis
 
 [Check out my Influenza project in more detail](project2.md#project2)
 
@@ -95,7 +95,7 @@ The purpose of this analysis was to prepare medical staffing agencies with appro
 [<img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster image" style="width: 650px; height: auto;">](project3.md)
 
 
-###  **Rockbuster Stealth Analysis**
+###  Rockbuster Stealth Analysis
 
 [Check out my Rockbuster project in more detail](project3.md#project3)
 
@@ -108,7 +108,7 @@ Rockbuster Stealth is a mock movie rental company that used to have stores aroun
 
 
 
-###  **U.S.A. Real Estate Analysis**
+###  U.S.A. Real Estate Analysis
 
 [Check out my U.S.A. Real Estate project in more detail](project4.md#project5) />
 </a>
@@ -119,7 +119,7 @@ Investigation of real estate across different regions of the United States, diss
 
 [<img src="assets/ML/ML_pic.png" alt="ML image" style="width: 600px; height: auto;">](project5.md)
 
-### **Machine Learning - ClimateWins Weather Predictions & Climate Change**
+### Machine Learning - ClimateWins Weather Predictions & Climate Change
 
 [Check out my Machine Learning project in more detail](project5.md#project5)
 
@@ -129,7 +129,7 @@ This project used real weather data from Europe to guide a fictional company, Cl
 
 [<img src="assets/Gameco/mult_games_pic.jpg" alt="games image" style="width: 600px; height: auto;">](project6.md)
 
-### **GameCo Financial Analysis**  
+### GameCo Financial Analysis
 
 
 [Check out my GameCo project in more detail](project6.md#projec6)
