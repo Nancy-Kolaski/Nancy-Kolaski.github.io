@@ -4,7 +4,7 @@
 
 <a href="#About Me" class="btn">About Me</a>  |
 <a href="#Projects" class="btn">Projects</a>  |
-<a href="#Contact Me" class="btn">CONTACT MEe</a>
+<a href="#CONTACT ME" class="btn">Contact Me</a>
 
 ---
 
