@@ -1,17 +1,10 @@
-# Nancy Kolaski
+
 
 ### Data Analyst
 
-<a href="#about" class="btn">About Me</a>  |
-<a href="#projects" class="btn">Projects</a>  |
-<a href="#contact" class="btn">Contact Me</a>
-
-
-
-
-
-
-
+<a href="#About Me" class="btn">About Me</a>  |
+<a href="#Projects" class="btn">Projects</a>  |
+<a href="#Contact Me" class="btn">Contact Me</a>
 
 ---
 
