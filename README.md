@@ -3,9 +3,9 @@
 # Data Analyst
 
 <!-- Navigation Links -->
-<a href="#About Me" class="btn">About Me</a> |
-<a href="#Projects" class="btn">Projects</a> |
-<a href="#Contact Me" class="btn">Contact Me</a> 
+<a href="#About Me" class="btn">About Me</a>
+&bull; <a href="#Projects" class="btn">Projects</a> 
+&bull; <a href="#Contact Me" class="btn">Contact Me</a> 
 
 <a id="Contact Me"></a>
 ### Contact Me
