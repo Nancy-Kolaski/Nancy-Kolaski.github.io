@@ -1,4 +1,18 @@
 #### Data Analyst 
+
+<header id="nav-menu" aria-label="navigation bar">
+  <div class="container">
+    <div class="nav-start">
+      <a class="logo" href="/">
+        <img src="https://github.com/Evavic44/responsive-navbar-with-dropdown/blob/main/assets/images/logo.png?raw=true" width="35" height="35" alt="Inc Logo" />
+      </a>
+      <nav class="menu">
+        <ul class="menu-bar">
+          <li>
+            <button class="nav-link dropdown-btn" data-dropdown="dropdown1" aria-haspopup="true" aria-expanded="false" aria-label="browse">
+              Browse
+
+
 &bull; nancykolaski@gmail.com
 
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> 
@@ -8,7 +22,6 @@
 &bull; [GitHub Repositories](https://github.com/Nancy-Kolaski) 
 
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
-
 
 
 # About Me  
