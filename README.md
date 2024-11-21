@@ -63,8 +63,9 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 <img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
 ***
 
-# Projects: 
 <a id="Projects"></a>
+# Projects: 
+
 ***
 
 
