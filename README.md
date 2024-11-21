@@ -32,7 +32,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 ***
 
 # About Me  
-<a id="about"></a>
+<a id="About Me"></a>
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 400px; height: auto;">
 
