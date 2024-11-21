@@ -17,10 +17,18 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 &bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
   <img src="assets/Linkedin_logo.jpg" alt="Logo" width="40" height="30">
 </a>
+<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf)">
+  <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
+</a>
+
+
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">
   <button>Visit My Full Portfolio</button>
 </a>
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf" target="_blank">Resume</a> 
+
+<a href="github.com/Nancy-Kolaski/portfolio.png" alt="Logo" width="40" height="30">
+</a>
 
 <a href="https://(https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf)" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold; text-align: center; transition: background-color 0.3s ease;">View My Portfolio</a>
 
