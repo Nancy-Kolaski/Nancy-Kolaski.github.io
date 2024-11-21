@@ -2,9 +2,10 @@
 
 ### Data Analyst
 
-<a href="# About Me" class="btn">About Me</a>  |
+<a href="#Contact Me" class="btn">Contact Me</a>
+<a href="#About Me" class="btn">About Me</a>  |
 <a href="#Projects" class="btn">Projects</a>  |
-<a href="# Contact Me" class="btn">Contact Me</a>
+
 
 ---
 
@@ -13,10 +14,35 @@
 
 
 
+<!-- Navigation Links -->
+<a href="#About Me" class="btn">About Me</a>
+<a href="#Projects" class="btn">Projects</a>
+<a href="#Contact Me" class="btn">Contact Me</a>
+
+## About Me
+<a id="About Me"></a>
+This is the about section.
+
+## Projects
+<a id="Projects"></a>
+This is the projects section.
+
+## Contact Me
+<a id="Contact Me"></a>
+This is the contact section.
+
+---
+
+Feel free to [email me](mailto:nancykolaski@gmail.com).
+
+
+
+
 
 #### Data Analyst 
 
 # Contact Me
+
 Get in touch:
 Feel free to [email me](mailto:nancykolaski@gmail.com).
 
@@ -30,6 +56,7 @@ Feel free to [email me](mailto:nancykolaski@gmail.com).
 
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank">View complete portfolio</a>
 
+***
 
 # About Me  
 
