@@ -1,25 +1,19 @@
-/* styles.css */
-.markdown-content {
-  font-family: Arial, sans-serif;
-  color: #333;
-  background-color: #f9f9f9;
-  padding: 20px;
-  border-radius: 8px;
-}
 
-.button-link {
+/* Add this CSS to your stylesheet (or in a <style> block in the HTML head) */
+
+.portfolio-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #4CAF50;
-  color: white;
-  text-align: center;
-  border-radius: 5px;
-  text-decoration: none;
+  background-color: #4CAF50;  /* Green background */
+  color: white;  /* White text */
+  text-decoration: none;  /* Remove underline */
+  border-radius: 5px;  /* Rounded corners */
   font-size: 16px;
-  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s ease;
 }
 
-.button-link:hover {
-  background-color: #45a049;
+.portfolio-button:hover {
+  background-color: #45a049;  /* Slightly darker green on hover */
 }
-
