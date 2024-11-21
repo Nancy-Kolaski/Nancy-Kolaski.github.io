@@ -17,6 +17,8 @@
 </a>
 
 
+<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: white; text-align: center; border-radius: 5px; text-decoration: none; font-size: 16px; cursor: pointer;">Visit My Portfolio</a>
+
 
 <a id="Contact Me"></a>
 # Contact Me
