@@ -6,7 +6,7 @@
 <a href="#About Me" class="btn">About Me</a> |
 <a href="#Projects" class="btn">Projects</a> |
 <a href="#Contact Me" class="btn">Contact Me</a> |
-<a href="[git](https://github.com/Nancy-Kolaski)">
+<a href="https://github.com/Nancy-Kolaski">
   <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
 <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
