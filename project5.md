@@ -70,12 +70,13 @@ The data utilized for this analysis was real world weather data collected betwee
 
 - **Optimization** lowers the risk of error and improves the accuracy of a model, often used to determine which algorithms to use.  It helps understand valleys and peaks of the local/global landscape of the data.
 
-- **Gradient Descent** (used in both linear and nonlinear data) was used in this study to determine the local minimums and maximums of the data points. 
+- **Gradient Descent** (used in both linear and nonlinear data) was used in this study to determine the local minimums and maximums of the data points.
+  - A local or gradient descent is one of the simplest ways, and most common ways, to find a local minimum (or valley).  It’s known as a first-order optimization method because it uses the derivative of the function at any point.
 
 Three iterations performed, adjusting step lengths (alpha) in order to get a result as near to 0 as possible.
 
 
-  <img src="assets/ML/gradient_descent_pic.png" alt="ML pic" style="width: 500px; height: auto;"> 
+  <img src="assets/ML/gradient_descent_pic.png" alt="ML pic" style="width: 600px; height: auto;"> 
 
   **We want to know, is climate increasing?**
 - Belgrade has freezing minimum temperaturess getting colder over the past 20 years.  It has warmed up by about 5 degrees over the past 60 years, when looking at the mean per year.  The max mean increased 1 degree higher than 60 years ago).
