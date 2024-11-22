@@ -126,7 +126,5 @@ lot size equal to 0. Next steps would be to clarify the number markers, determin
 
 ***
 
-<a href="#top">Back to Top</a>
-
-<a href="/">Back to Main Page</a> 
+<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> | [Continue to next project](project5.md#project5)
 
