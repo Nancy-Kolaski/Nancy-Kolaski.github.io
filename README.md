@@ -21,8 +21,8 @@
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf">
   <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30">
 </a>
-
-
+&bull; <a href="https://public.tableau.com/app/profile/nancy.kolaski/vizzes/">
+ <img src="assets/tableau_logo" alt="Logo" width="30" height="30">
 
 ***
 <a id="About Me"></a>
