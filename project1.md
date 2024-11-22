@@ -124,7 +124,5 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 
 ***
  
-<a href="#top">Back to Top</a>
-
-<a href="/">Back to Main Page</a>  |  [Continue to next project](project2.md#project2)
+<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a>  |  [Continue to next project](project2.md#project2)
 
