@@ -7,9 +7,6 @@
 
 ***
 
-<a id="Contact Me"></a>
-### Contact Me:
-
 <a href="mailto:nancykolaski@gmail.com">
   <img src="assets/email-logo.png" alt="Contact Me" width="30" height="30">
 </a> 
@@ -140,7 +137,10 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 
 ***
 
-### Contact Me:
+<a id="Contact Me"></a>
+### Contact Me: 
+
+Thank you for your time. Please reach out: nancykolaski@gmail.com
 
 
 <a href="mailto:nancykolaski@gmail.com">
