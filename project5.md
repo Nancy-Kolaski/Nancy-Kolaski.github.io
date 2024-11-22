@@ -8,6 +8,8 @@
 
 <img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [Github Respository](https://github.com/Nancy-Kolaski/ML-ClimateWins/tree/main)
 
+<a href="https://github.com/Nancy-Kolaski/ML-ClimateWins/tree/main"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+</a>
 ## Introduction:
 ClimateWins is a fictional European nonprofit organization, that is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. It’s concerned with extreme weather events, especially in the past 10-20 years. Through use of machine learning, it wants to see if weather conditions can be predicted by looking historically at the temperature highs and lows, and exploring whether conditions can be predicted to a specific given day and can prevent danger.
 
