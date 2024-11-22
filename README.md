@@ -1,9 +1,6 @@
 
 <!-- Navigation Links with Resized Images -->
-<a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_btn.png?raw=true" alt="About Me" style="width: 125px; height: 40px;"></a>
-• <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_btn.png?raw=true" alt="Projects" style="width: 125px; height: 40px;"></a>
-• <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_btn.png?raw=true" alt="Contact Me" style="width: 125px; height: 40px;"></a>
-• <a href="#View My Complete Portfolio"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/portfolio_pdf_btn.png?raw=true" alt="View My Complete Portfolio" style="width: 125px; height: 40px;"></a>
+-<a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_btn.png?raw=true" alt="About Me" style="width: 125px; height: 40px;"></a> - <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_btn.png?raw=true" alt="Projects" style="width: 125px; height: 40px;"></a> - <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_btn.png?raw=true" alt="Contact Me" style="width: 125px; height: 40px;"></a> - <a href="#View My Complete Portfolio"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/portfolio_pdf_btn.png?raw=true" alt="View My Complete Portfolio" style="width: 125px; height: 40px;"></a> -
 
 ***
 
@@ -142,6 +139,7 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 
 ### Contact Me:
 
+
 <a href="mailto:nancykolaski@gmail.com">
   <img src="assets/email-logo.png" alt="Contact Me" width="30" height="30">
 </a> 
@@ -153,8 +151,8 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/Kolaski-Nancy-resume.pdf">
   <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30">
 </a>
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-  <img src="assets/portfolio.png" alt="Logo" width="150" height="30">
+<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
+<img src="assets/portfolio.png" alt="Logo" width="150" height="30">
 </a>
 
 ***
