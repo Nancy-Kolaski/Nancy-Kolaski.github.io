@@ -1,8 +1,8 @@
 
 <!-- Navigation Links with Resized Images -->
 <a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_button.png?raw=true" alt="About Me" style="width: 150px; height: 40px;"></a>
-• <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png?raw=true" alt="Projects" style="width: 150px; height: 40px;"></a>
-• <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png?raw=true" alt="Contact Me" style="width: 150px; height: 40px;"></a>
+• <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png?raw=true" alt="Projects" style="width: 150px; height: 40px;"></a>
+• <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png?raw=true" alt="Contact Me" style="width: 150px; height: 40px;"></a>
 
 ***
 
