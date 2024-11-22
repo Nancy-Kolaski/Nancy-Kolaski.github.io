@@ -5,7 +5,7 @@
 # GameCo Financial Analysis
 <img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
-[GameCo Report](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/main/assets/Gameco/Gameco/Final GameCO Project Presentation 1-10.pdf)
+[GameCo Report (Excel)](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Gameco/Final%20GameCO%20Project%20Presentation%201-10.pdf)
 
 
 
