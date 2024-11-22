@@ -138,6 +138,8 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 ***
 
 <a id="Contact Me"></a>
+<img src="assets/thank_you.png" alt="thank you" style="width: 600px; height: auto">
+
 # Contact Me: 
 
 Thank you for your time. Please reach out: nancykolaski@gmail.com
