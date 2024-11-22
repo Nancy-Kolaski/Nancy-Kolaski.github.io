@@ -10,7 +10,9 @@
 
 ***
 
-<a href="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1
+
+<a href="https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1"> <img src="assets/t_logo.png" alt="Logo" width="30" height="30">
 </a>
 
 ***
