@@ -1,16 +1,9 @@
  <a href="/">Back to Main Page</a> | [Continue to next project](project3.md#project3)
  
-***
 
-# Influenza Analysis
+# Influenza Analysis  
 
 <img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
-
-<img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link](https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1) 
-
-***
-
-https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1
 
 <a href="https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1"> <img src="assets/t_logo.png" alt="Logo" width="30" height="30">
 </a>
