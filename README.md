@@ -13,7 +13,6 @@
 &bull; <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png" alt="Projects" style="height: 40px; margin-right: 10px;"></a>
 
 ***
-***
 
 <a id="Contact Me"></a>
 ### Contact Me:
