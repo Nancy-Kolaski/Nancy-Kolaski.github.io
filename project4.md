@@ -6,13 +6,8 @@
 # U.S.A Real Estate Analysis
 <img src="assets/USA_RealEstate/realestate_pic.png" alt="real estate pic" style="width: 400px; height: auto;"> 
 
-<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;">  [Github Repository](https://github.com/Nancy-Kolaski/Python-USA_Real_Estate-Analysis)
-
-<img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link](https://public.tableau.com/shared/4H7DHWB3H?:display_count=n&:origin=viz_share_link)
-
-
 <a href="https://public.tableau.com/shared/4H7DHWB3H?:display_count=n&:origin=viz_share_link"> <img src="assets/t_logo.png" alt="Logo" width="30" height="30">
-</a>
+</a> 
 <a href="https://github.com/Nancy-Kolaski/Python-USA_Real_Estate-Analysis"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
 
