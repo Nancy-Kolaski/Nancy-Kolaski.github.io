@@ -8,8 +8,12 @@
 
 <img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link](https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1) 
 
+***
 
+<a href="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+</a>
 
+***
 
 The United States has an influenza season where more people than usual suffer from the flu. Some people, particularly those in vulnerable populations, develop serious complications and end up in
 the hospital. Hospitals and clinics need additional staff to adequately treat these extra patients. The medical staffing agency provides this temporary staff. The purpose of this analysis was to determine when to send staff, and how many, to each states. The agency covers all hospitals in each of the 50 states of the United States, and the project will plan for the upcoming influenza season.
