@@ -1,4 +1,4 @@
- <a href="/">Back to Main Page</a> | [Continue to next project](project3.md#project3)
+ <a href="/">Homee</a> | [Next Project](project3.md#project3)
  
 
 # Influenza Analysis  
@@ -117,7 +117,7 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
 
 ***
 
-<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> | [Continue to next project](project3.md#project3)
+<a href="#top">Back to Top</a> | <a href="/">Home</a> | [Next Project](project3.md#project3)
 
 
 
