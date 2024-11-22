@@ -1,4 +1,5 @@
- <a href="/">Back to Main Page</a> 
+ <a href="/">Back to Main Page</a> | [Continue to next project](project6.md#projec6)
+
 
 ***
 
