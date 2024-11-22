@@ -98,8 +98,6 @@ and could potentially continue to be a top consumer of GameCo video games in the
 
 ***
 
-<a href="#top">Back to Top</a>
-
-<a href="/">Back to Main Page</a> 
+<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> 
 
 
