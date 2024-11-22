@@ -62,6 +62,7 @@
 
 <a id="Projects"></a>
 # Projects: 
+<a id="View My Complete Portfolio"></a>
 ### View My Complete Portfolio:
 <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
 <img src="assets/portfolio.png" alt="Logo" width="150" height="50">
