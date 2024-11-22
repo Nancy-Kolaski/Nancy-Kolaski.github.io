@@ -14,7 +14,7 @@
 
 <a href="https://public.tableau.com/app/profile/nancy.kolaski/viz/3_10RockbusterPresentation_17134027032480/Story-noheading"> <img src="assets/t_logo.png" alt="Logo" width="30" height="30">
 </a>
-<a href="https://"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
+<a href="https://github.com/Nancy-Kolaski/SQL-RockbusterVideoRental"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
 
 
