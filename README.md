@@ -138,7 +138,7 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 ***
 
 <a id="Contact Me"></a>
-### Contact Me: 
+# Contact Me: 
 
 Thank you for your time. Please reach out: nancykolaski@gmail.com
 
