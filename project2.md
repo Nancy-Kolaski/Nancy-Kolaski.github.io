@@ -6,7 +6,7 @@
 
 <img src="assets/flu.png" alt="flu pic" style="width: 300px; height: auto;">
 
-<img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link for this project](https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1) 
+<img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link](https://public.tableau.com/app/profile/nancy.kolaski/viz/PreparingforInfluenzaSeason_17109791937900/Story1) 
 
 
 
