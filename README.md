@@ -159,7 +159,7 @@ Thank you for your time. Please reach out: nancykolaski@gmail.com
 &bull; <a href="https://public.tableau.com/app/profile/nancy.kolaski/vizzes/">
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">  
 </a> &bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-<img src="assets/portfolio.png" alt="Logo" width="60" height="25">
+<img src="assets/portfolio.png" alt="Logo" width="75" height="30">
 </a>
  
 
