@@ -1,4 +1,4 @@
- <a href="/">Back to Main Page</a> | [Continue to next project](project4.md#project5)
+ <a href="/">Home</a> | [Next Project](project4.md#project5)
 
 ***
 
@@ -119,5 +119,5 @@ Average rental duration is around 5 days for all videos
 
 ***
 
-<a href="/">Back to Main Page</a> | <a href="#top">Back to Top</a> | [Continue to next project](project4.md#project5)
+<a href="/">Home</a> | <a href="#top">Back to Top</a> | [Next Project](project4.md#project5)
 
