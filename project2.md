@@ -113,7 +113,7 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
   - Inclusion of other contributors to our vulnerable population, including those who are under 5 years old, are pregnant, or who have other comorbidities.
 
 
-- Based on the analysis of this data, there should be additional staffing supplied to hospitals and medical facilites in California, New York, Texas, Florida, and Pennsylvania beginning in December, increasing through January, and slowly tapering down through March.
+To summarize, additional staffing should be supplied to hospitals and medical facilites in California, New York, Texas, Florida, and Pennsylvania beginning in December, increasing through January, and slowly tapering down through March.  By April, these facilities should be functioning back to their regular staffing capacities.  
 
 ***
 
