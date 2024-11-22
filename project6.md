@@ -5,6 +5,9 @@
 # GameCo Financial Analysis
 <img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
+Final Report
+Final GameCO Project Presentation 1-10.pdf
+
 ## Introduction:
 GameCo is a video game company that wants to develop new games and establish better marketing strategies. Data analysis looked at different variables that impact sales such as genre/types of games, game platforms, publishers, sales across time (historical to 2016), and sales across geographical regions (North America, Europe, & Japan). The current understanding is that video game sales across global regions of Europe, North America, and Japan generally stay the same over time.  GameCo is investigating to make sure their assumption is correct prior to moving forward with further marketing strategies.
 
