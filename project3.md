@@ -119,5 +119,5 @@ Average rental duration is around 5 days for all videos
 
 <a href="/">Back to Main Page</a> 
 
-<a href="#top">Back to Top</a>
+<a href="#top">Back to Top</a> | [Continue to next project](project4.md#project5)
 
