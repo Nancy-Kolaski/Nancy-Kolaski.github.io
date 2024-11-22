@@ -8,9 +8,9 @@
 ***
 
 <!-- Navigation Links with Images -->
-<a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_button.png" alt="About Me" style="height: 30px; margin-right: 10px;"></a>
-&bull; <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png" alt="Contact Me" style="height: 30px; margin-right: 10px;"></a> 
-&bull; <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png" alt="Projects" style="height: 30px; margin-right: 10px;"></a>
+<a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_button.png" alt="About Me" style="height: 40px; margin-right: 10px;"></a>
+&bull; <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png" alt="Contact Me" style="height: 40px; margin-right: 10px;"></a> 
+&bull; <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png" alt="Projects" style="height: 40px; margin-right: 10px;"></a>
 
 ***
 ***
