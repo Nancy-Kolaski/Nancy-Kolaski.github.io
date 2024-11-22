@@ -5,8 +5,8 @@
 # GameCo Financial Analysis
 <img src="assets/Gameco/mult_games_pic.jpg" alt="games pic" style="width: 300px; height: auto;">  
 
+[GameCo Report](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/main/assets/Gameco/Gameco/Final GameCO Project Presentation 1-10.pdf)
 
-[Final GameCo Report](https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/blob/main/assests/Gameco/Final GameCO Project Presentation 1-10.pdf)
 
 
 ## Introduction:
