@@ -4,12 +4,15 @@
 &bull; <a href="#Projects" class="btn">Projects</a> 
 &bull; <a href="#Contact Me" class="btn">Contact Me</a> 
 
+
 ***
-<a href="About Me" class="btn"> <img src="assets/aboutme_button.png" alt="Logo" width="200" height="30">
-&bull; <a href="About Me" class="btn"> <img src="assets/contactme_button.png" alt="Logo" width="200" height="30">
-&bull; <a href="About Me" class="btn"> <img src="assets/projects_button.png" alt="Logo" width="200" height="30">
 
+<!-- Navigation Links with Images -->
+<a href="#About Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_button.png" alt="About Me" style="height: 30px; margin-right: 10px;"></a>
+&bull; <a href="#Projects"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png" alt="Contact Me" style="height: 30px; margin-right: 10px;"></a> 
+&bull; <a href="#Contact Me"><img src="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/projects_button.png" alt="Projects" style="height: 30px; margin-right: 10px;"></a>
 
+***
 ***
 
 <a id="Contact Me"></a>
