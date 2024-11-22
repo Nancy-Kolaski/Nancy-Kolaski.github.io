@@ -96,6 +96,10 @@ Let's take a close look below at Belgrade: 3 iterations performed showing loss o
 
 - The KNN classifies data in proximity to it's neighbors.
   - Test Accuracy Scores = 88.46%
+  - Accuracy of the results are determined by looking at how close the model’s predictions and estimates match the known classes in the testing set.
+  - A typical proportion for comparison purposes would be 75% training set & 25% testing set.
+
+
 <img src="assets/ML/KNN_example.png" alt="weather station comparisons" style="width: 700px; height: auto;">
 
 ### ANN (Artificial Neural Network)  ________________________________________________________ 
