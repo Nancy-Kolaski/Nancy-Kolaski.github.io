@@ -138,7 +138,7 @@ Assist GameCo Video Game company (a mock company) in developing new games and es
 ***
 
 <a id="Contact Me"></a>
-<img src="assets/thank_you.png" alt="thank you" style="width: 600px; height: auto">
+<img src="thank_you.png" alt="thank you" style="width: 400px; height: auto">
 
 # Contact Me: 
 
