@@ -11,9 +11,9 @@
 </a>
 
 ## Introduction:
-ClimateWins is a fictional European nonprofit organization, that is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. It’s concerned with extreme weather events, especially in the past 10-20 years. Through use of machine learning, it wants to see if weather conditions can be predicted by looking historically at the temperature highs and lows, and exploring whether conditions can be predicted to a specific given day and can prevent danger.
+ClimateWins is a fictional European nonprofit organization, that is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. It’s concerned with extreme weather events, especially in the past 10-20 years. Through use of machine learning, it wants to see if weather conditions can be predicted by looking historically at the temperature highs and lows, and if exploring whether conditions can be predicted to the specification of a given day to prevent weather disasters.
 
-This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-Achievement-1-Project Brief copy.pdf" target="_blank">here for part 1</a> and <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-with-Python-Achievement-2-Project Brief copy.pdf" target="_blank">here for part 2</a>.
+This was an CareerFoundry assignment with the project brief outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-Achievement-1-Project Brief copy.pdf" target="_blank">here for part 1</a> and <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Machine-Learning-with-Python-Achievement-2-Project Brief copy.pdf" target="_blank">here for part 2</a>.
 
 
 ## Objective:
@@ -26,10 +26,10 @@ This was an CareerFoundry assignment with the project breif outline included <a 
 1) ClimateWins can help predict climate change around Europe (and potentially, around the world).
 2) The weather from ClimateWins locations are located at the top of a mountain and considered mostly ‘unpleasant’ conditions, and will therefore continue to be unpleasant in the future.
 3) The weather climate across Europe will gradually increase over time.
-4) Supervised & Unsupervised Learning algorithms are are optimal tools in predictive analysis needed for weather forecasting.
+4) Supervised & Unsupervised Learning algorithms are optimal tools in predictive analysis needed for weather forecasting.
 
-## Data: 
-Data was collected between 1800s to 2022 by ‘European Climate Assessment and Data Set Project’, consisting of temperature, wind speed, snow, and global radiation from 18 different weather stations. found at [https://www.ecad.eu/](https://www.ecad.eu/) 
+## Data Link: 
+The data utilized for this analysis was real world weather data collected between 1800s to 2022 by ‘European Climate Assessment and Data Set Project’, consisting of temperature, wind speed, snow, and global radiation from 18 different weather stations, found at [https://www.ecad.eu/](https://www.ecad.eu/).
 
 
 ## Tools:
@@ -42,7 +42,7 @@ Data was collected between 1800s to 2022 by ‘European Climate Assessment and D
   - multilabel_confusion_matrix, accuracy_score, ConfusionMatrixDisplay, StandardScaler
   - tensorflow, keras (keras.models, keras.layers with LSTM), Sequential, Conv1D, Conv2D, Dense, Dropout, BatchNormalization, Flatten, MaxPooling1D
   - scipy: .cluster.hierarchy import dendrogram, linkage, fcluster
-  -  bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
+  - bayes_opt, BayesianOptimization, LeakyReLU, BatchNormalization
 
 
 <img src="assets/ML/tools_logos.png" alt="ML pic" style="width: 300px; height: auto;"> 
@@ -72,20 +72,20 @@ Data was collected between 1800s to 2022 by ‘European Climate Assessment and D
 
 - **Gradient Descent** (used in both linear and nonlinear data) was used in this study to determine the local minimums and maximums of the data points. 
 
-Three iterations performed, adjusting step lengths (alpha) in order to get a result as near to 0 as possible
+Three iterations performed, adjusting step lengths (alpha) in order to get a result as near to 0 as possible.
 
 
   <img src="assets/ML/gradient_descent_pic.png" alt="ML pic" style="width: 500px; height: auto;"> 
 
   **We want to know, is climate increasing?**
-- Belgrade has  freezing minimum temps getting colder over past 20 years.  It has warmed up by about 5 degrees over past 60 years, when looking at the mean per year.  The max mean raised 1 degree higher than 60 years ago).
+- Belgrade has freezing minimum temperaturess getting colder over the past 20 years.  It has warmed up by about 5 degrees over the past 60 years, when looking at the mean per year.  The max mean increased 1 degree higher than 60 years ago).
 - In general, all means, mins, and max temperatures have increased, with the exception of Valencia (where data is likely skewed due to permanency of 10.7 report).
 
 The chart below shows data over a 60 year span of temperatures in Madrid, Valencia, and Belgrade in the years 1980, 2000, 2018.  
 
  <img src="assets/ML/weather_station_comparison.png" alt="weather station comparisons" style="width: 700px; height: auto;"> 
 
-Let's take a close look at Belgrade: 3 iterations performed showing loss of function and loss profile
+Let's take a close look below at Belgrade: 3 iterations performed showing loss of function and loss profile:
 
 <img src="assets/ML/Belgrade_loss-of_function.png" alt="Belgrade loss of function" style="width: 600px; height: auto;"> 
 
@@ -94,14 +94,14 @@ Let's take a close look at Belgrade: 3 iterations performed showing loss of func
 ### KNN (K-Nearest Neighbor) ________________________________________________________________
 <img src="assets/ML/KNN_pic.png" alt="weather station comparisons" style="width: 100px; height: auto;"> 
 
-- KNN Classifies data in proximity to it's neighbors
+- The KNN classifies data in proximity to it's neighbors.
   - Test Accuracy Scores = 88.46%
 <img src="assets/ML/KNN_example.png" alt="weather station comparisons" style="width: 700px; height: auto;">
 
 ### ANN (Artificial Neural Network)  ________________________________________________________ 
 <img src="assets/ML/ANN_pic.png" alt="ANN pic" style="width: 100px; height: auto;">
 
--  Replicates the human brain, consisting of input and output layers, along with the hidden layers by adjusting weights to obtain outcomes.
+-  The ANN replicates the human brain, consisting of input and output layers, along with the hidden layers by adjusting weights to obtain outcomes.  
    - Train Accuracy Score = 52%
    - Test Accuracy Score = 49%
   
