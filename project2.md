@@ -1,4 +1,4 @@
- <a href="/">Homee</a> | [Next Project](project3.md#project3)
+ <a href="/">Home</a> | [Next Project](project3.md#project3)
  
 
 # Influenza Analysis  
