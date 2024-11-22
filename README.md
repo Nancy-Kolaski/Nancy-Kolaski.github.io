@@ -5,6 +5,12 @@
 &bull; <a href="#Contact Me" class="btn">Contact Me</a> 
 
 ***
+<a href="About Me" class="btn"><img src="assets/aboutme_button.png" alt="Logo" width="200" height="30">
+&bull; <a href="About Me" class="btn"><img src="assets/contactme_button.png" alt="Logo" width="200" height="30">
+&bull; <a href="About Me" class="btn"><img src="assets/projects_button.png" alt="Logo" width="200" height="30">
+
+
+***
 
 <a id="Contact Me"></a>
 ### Contact Me:
