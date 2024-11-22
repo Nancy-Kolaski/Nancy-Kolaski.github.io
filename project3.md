@@ -7,11 +7,6 @@
 <img src="assets//Rockbuster/Rockbuster.png" alt="Rockbuster" style="width: 300px; height: auto;">
 
 
-<img src="assets/tab-logo.png" alt="tableau logo" style="width: 20px; height: auto;"> [Tableau Link](https://public.tableau.com/app/profile/nancy.kolaski/viz/3_10RockbusterPresentation_17134027032480/Story-noheading)
-
-<img src="assets/github-logo.jpeg" alt="github logo" style="width: 20px; height: auto;"> [Github Repository](https://github.com/Nancy-Kolaski/SQL-RockbusterVideoRental)
-
-
 <a href="https://public.tableau.com/app/profile/nancy.kolaski/viz/3_10RockbusterPresentation_17134027032480/Story-noheading"> <img src="assets/t_logo.png" alt="Logo" width="30" height="30">
 </a>
 <a href="https://github.com/Nancy-Kolaski/SQL-RockbusterVideoRental"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
