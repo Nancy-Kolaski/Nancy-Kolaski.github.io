@@ -4,6 +4,12 @@
 &bull; <a href="#Projects" class="btn">Projects</a> 
 &bull; <a href="#Contact Me" class="btn">Contact Me</a> 
 
+***
+
+<!-- Navigation Links with Images -->
+[![About Me](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/aboutme_button.png)](#About-Me)
+• [![Projects](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/contactme_button.png)](#Projects)
+• [![Contact Me](https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets//projects_button.png)](#Contact-Me)
 
 ***
 
