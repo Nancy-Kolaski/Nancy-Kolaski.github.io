@@ -193,8 +193,6 @@ higher accuracy. Then, use final results to plug into a GAN to generate more rea
 
 ***
 
-<a href="#top">Back to Top</a>
-
-<a href="/">Back to Main Page</a> 
+<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> 
 
 
