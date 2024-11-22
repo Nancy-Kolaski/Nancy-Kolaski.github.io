@@ -16,14 +16,14 @@
 ## **Introduction:**
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental services in order to stay competitive.  This was a mock company created for CareerFoundry analytic students.
 
-This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A3_Data_Project_Brief  copy.pdf" target="_blank">here</a>.
+This was an CareerFoundry assignment with the project brief outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/A3_Data_Project_Brief  copy.pdf" target="_blank">here</a>.
 
 
 ## **Goal:**
 Assist the Rockbuster Stealth business intelligence department, via SQL queries, in preparation for their 2020 market strategies, providing data-driven insights for a redefined approach for sales improvement.
 
 ## Key Questions & Objective
-The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy. Here are the main questions they’d like to answer:
+The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers to use for their 2020 company strategy. Here are the main questions they’d like to answer:
 
 ● Which movies contributed the most/least to revenue gain?
 
@@ -43,7 +43,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 - Data Descriptions
 - Joining, Subqueries, CTEs (Common Table Expressions)
 - Visualizations in Tableau (line chart, bar chart, stacked bar chart, choropleth map, bubble chart)
--  Interpret Results and Summarize findings/insights.
+- Interpret Results and Summarize findings/insights.
 
 <img src="assets/Rockbuster/Rockbuster_tools.png" alt="Rockbuster tools" style="width: 200px; height: auto;">
 
@@ -52,7 +52,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 [https://www.vgchartz.com/](https://www.vgchartz.com/)
 
-The dataset includes information on Rockbuster’s data looaded into a PostgreSQL database including: film inventory, customers, payments, stores, staff, films, actors, rental history, addresses, and transactions. It is structured to reflect real-world business scenarios and relationships between different data tables.
+The dataset includes information on Rockbuster’s data loaded into a PostgreSQL database including: film inventory, customers, payments, stores, staff, films, actors, rental history, addresses, and transactions. It is structured to reflect real-world business scenarios and relationships between different data tables.
 
 <img src="assets/Rockbuster/data_description.png" alt="data description" style="width: 500px; height: auto;">
 
@@ -75,7 +75,7 @@ The dataset includes information on Rockbuster’s data looaded into a PostgreSQ
 <img src="assets/Rockbuster/top_10_countires.png" alt="top 10 countries" style="width: 600px; height: auto;">
 
 - **Let's look at the cities with the most customers**
-  - The map below narrows down for viewing of the top cities geographically within the top countires with the most Rockbuster customers.
+  - The map below provides viewing of the top cities geographically within the top countries with the most Rockbuster customers.
 
 <img src="assets/Rockbuster/top_cities_map.png" alt="top 10 cities (map)" style="width: 600px; height: auto;">
 
@@ -104,18 +104,18 @@ The dataset includes information on Rockbuster’s data looaded into a PostgreSQ
   - Japan #3,100
   - Brazil & Mexico $2,900
 - Geographical distribution is spread worldwide (no trends or centralized locations, interesting insight since most movies are in
-english)
-Top sales per top 5 customers averages to $200 each
-Average rental duration is around 5 days for all videos
+english).
+- Top sales per top 5 customers averages to $200 each.
+- Average rental duration is around 5 days for all videos.
   - No correlation between longer movie rentals and top movies
   
 ### Recommendations:
-- Interview top customers using questionnaires to find out what they like/don’t like about Rockbuster’s rental service
-  - Since they are invested, they will likely know the process well and provide helpful feedback
+- Interview top customers using questionnaires to find out what they like/don’t like about Rockbuster’s rental service.
+  - Since they are invested, they will likely know the process well and provide helpful feedback.
 - Use AI to formulate algorithms for movies that are similar to the top 10 movie list in order to advertise more movies similar (and vice versa for bottom list)
-  - Collect revenue lists 3 months following to monitor for any increases
-- Focus marketing for Rockbuster in the higher populated regions since they produce more revenue
-- Introduce more movies with language dialects native to these top countries: India, China, Japan, Brazil, & Mexico
+  - Collect revenue lists 3 months following to monitor for any increases.
+- Focus marketing for Rockbuster in the higher populated regions since they produce more revenue.
+- Introduce more movies with language dialects native to these top countries: India, China, Japan, Brazil, & Mexico.
 
 ***
 
