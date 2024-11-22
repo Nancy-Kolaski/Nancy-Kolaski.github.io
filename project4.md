@@ -1,4 +1,4 @@
- <a href="/">Back to Main Page</a> | [Continue to next project](project5.md#project5)
+ <a href="/">Home</a> | [Next Project](project5.md#project5)
 
 
 ***
@@ -128,5 +128,5 @@ lot size equal to 0. Next steps would be to clarify the number markers, determin
 
 ***
 
-<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> | [Continue to next project](project5.md#project5)
+<a href="#top">Back to Top</a> | <a href="/">Home</a> | [Next Project](project5.md#project5)
 
