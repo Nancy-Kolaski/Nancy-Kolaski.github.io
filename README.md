@@ -40,14 +40,14 @@
 
 | <center>Analytical Skills</center>                                 | <center>Professional Skills</center>           | <center>Tools</center>           |
 |---------------------------------------------------------------------|------------------------------------------------|----------------------------------|
-|   <center> * Data Cleaning & Prepration </center>                   |     <center> * Problem Solving  </center>      |     <center> * SQL</center>      |
-|   <center> * Exploratory & Descriptive Analysis  </center>          |     <center> * Communication </center>         |     <center> * Python</center>   |
-|   <center> * Integrating & Transforming Data  </center>             |     <center> * Collaboration  </center>        |     <center> * Excel</center>    |
-|   <center> * Querying, Filtering, Sorting, Grouping</center>        |     <center> * Presentatiion Skills</center>   |     <center> * Tableau</center>  |
-|   <center> * Performing Statistical Analysis </center>              |     <center> * Organization </center>          |          
-|   <center> * Writing technical documentation & Reports</center>     |     <center> * Spanish Proficiency</center>    |
-|   <center> * Data Visualizaitons & Dashboards </center>             |                       
-|   <center> * Machine Learning   </center>                           |                       
+|   <center>  Data Cleaning & Prepration </center>                   |     <center>  Problem Solving  </center>      |     <center>  SQL</center>      |
+|   <center>  Exploratory & Descriptive Analysis  </center>          |     <center>  Communication </center>         |     <center>  Python</center>   |
+|   <center>  Integrating & Transforming Data  </center>             |     <center>  Collaboration  </center>        |     <center>  Excel</center>    |
+|   <center>  Querying, Filtering, Sorting, Grouping</center>        |     <center>  Presentatiion Skills</center>   |     <center>  Tableau</center>  |
+|   <center>  Performing Statistical Analysis </center>              |     <center>  Organization </center>          |          
+|   <center>  Writing technical documentation & Reports</center>     |     <center>  Spanish Proficiency</center>    |
+|   <center>  Data Visualizaitons & Dashboards </center>             |                       
+|   <center>  Machine Learning   </center>                           |                       
 
 
 <img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
