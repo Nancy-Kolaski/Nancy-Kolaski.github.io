@@ -26,7 +26,7 @@ This was an CareerFoundry assignment with the project brief outline included <a 
 1) ClimateWins can help predict climate change around Europe (and potentially, around the world).
 2) The weather from ClimateWins locations are located at the top of a mountain and considered mostly ‘unpleasant’ conditions, and will therefore continue to be unpleasant in the future.
 3) The weather climate across Europe will gradually increase over time.
-4) Supervised & Unsupervised Learning algorithms are optimal tools in predictive analysis needed for weather forecasting.
+4) Supervised & Unsupervised Learning Algorithms are optimal tools in predictive analysis needed for weather forecasting.
 
 ## Data Link: 
 The data utilized for this analysis was real world weather data collected between 1800s to 2022 by ‘European Climate Assessment and Data Set Project’, consisting of temperature, wind speed, snow, and global radiation from 18 different weather stations, found at [https://www.ecad.eu/](https://www.ecad.eu/).
@@ -79,7 +79,7 @@ Three iterations performed, adjusting step lengths (alpha) in order to get a res
   <img src="assets/ML/gradient_descent_pic.png" alt="ML pic" style="width: 600px; height: auto;"> 
 
   **We want to know, is climate increasing?**
-- Belgrade has freezing minimum temperaturess getting colder over the past 20 years.  It has warmed up by about 5 degrees over the past 60 years, when looking at the mean per year.  The max mean increased 1 degree higher than 60 years ago).
+- Belgrade has freezing minimum temperaturess getting colder over the past 20 years.  It has warmed up by about 5 degrees over the past 60 years, when looking at the mean per year.  The max mean increased 1 degree higher than 60 years ago.
 - In general, all means, mins, and max temperatures have increased, with the exception of Valencia (where data is likely skewed due to permanency of 10.7 report).
 
 The chart below shows data over a 60 year span of temperatures in Madrid, Valencia, and Belgrade in the years 1980, 2000, 2018.  
@@ -98,6 +98,7 @@ Let's take a close look below at Belgrade: 3 iterations performed showing loss o
 - The KNN classifies data in proximity to it's neighbors.
   - Test Accuracy Scores = 88.46%
   - Accuracy of the results are determined by looking at how close the model’s predictions and estimates match the known classes in the testing set.
+  - Review that this algorithm works by comparing distances between nearby data points to determine which group each point belongs to.
   - A typical proportion for comparison purposes would be 75% training set & 25% testing set.
 
 
@@ -106,7 +107,10 @@ Let's take a close look below at Belgrade: 3 iterations performed showing loss o
 ### ANN (Artificial Neural Network)  ________________________________________________________ 
 <img src="assets/ML/ANN_pic.png" alt="ANN pic" style="width: 100px; height: auto;">
 
--  The ANN replicates the human brain, consisting of input and output layers, along with the hidden layers by adjusting weights to obtain outcomes.  
+-  The ANN replicates the human brain, consisting of input and output layers, along with the hidden layers by adjusting weights to obtain outcomes.
+-  This model tends to have intuitive results.  This model is technically a supervised model, but can act in an unsupervised manner that leads to more complex results.
+-  It takes more time to train, and can yield different results for each iteration of the model.
+-  The ANN is the basis for modern ML.
    - Train Accuracy Score = 52%
    - Test Accuracy Score = 49%
   
@@ -116,20 +120,29 @@ Let's take a close look below at Belgrade: 3 iterations performed showing loss o
 <img src="assets/ML/decision_tree_pic.png" alt="Decision Tree Pic" style="width: 200px; height: auto;">
 
 - Decision Trees model these kinds of questions for many objects at once.  They have roots, branches, and leaves.  The root is the first question asked, with a yes/no answer, leading to another question/branch.  The answer is the leaf/stopping point.
+- This model is  good for non-linear data as it easily locates patterns, although it has a tendency to overfit (which is what happened with this project).
 - This model had lower accuracy, possibly due to being far too large.  This would have to be pruned down to improve accuracy and show meaningful information.  
   - Train Accuracy Score = 46%
   - Test Accuracy Score = 47%
 
 <img src="assets/ML/dec_tree_example.png" alt="Decision Tree Example" style="width: 700px; height: auto;">
 
-## Supervised & Unsupervised Machine Learning Algorithms (Deep Learning):
+## Unsupervised Machine Learning Algorithms (Deep Learning):
+- **Dimensionality Reduction**: A technque used to interpret large datasets with many dimentions, reduces complexity of a data landscape by redefining aspects oflinearity in the data so tthat it's easier to process patterns.
+- **Principal Component Analysis (PCA)**: This technique works buy finding linear represntations in a data set, looking at the greatest variance in the data.
+  - pros: events overfitting and can speed up other ML algorithms by making it easier to find patterns 
+  - cons: restricted to linear data only, and can loose data as it reduces the landscape dimensions
 
+ 
 ### Random Forest ____________________________________________________________________________
 <img src="assets/ML/r_forest_pic.png" alt="Random Forest Pic" style="width: 100px; height: auto;">
 
+- Randome Forests are collections of Decision Trees.  Each Decision Tree trains on a random sample of the total data, with the final prediction made by averaging predictions by all of the trees.
+   - It is an *Ensemble Learning Algorithm* that trains many models at the same time to solve the same problem, producing a more accurate answer and reduces overfitting (since averaging reduces variance bias).
 - Identify extreme weather conditions by clustering with dendrograms
   - Compare all stations with Complete method (reduced data) to find trends, then narrow down specific locations to find the extreme weather condition patterns using Single method.
   -Combines multiple decision trees to make the most accurate predictions. Each decision tree trains on a random sample of the total data, with final prediction made by averaging the predictions of all trees.
+ - Cons: it is hard to interpret with crowded visualizations, as each tree has a slightly diferent answer.
 
 - **Dendrogram Single Method** (referring to the top dendrogram picture below) can find outliers, interpreted as extreme weather conditions when looking at specific weather stations. It is not as useful when comparing all weather stations
 - **Dendrogram Complete Method** (referring to the bottom dendrogram picture below) gives clear, distinct clusters with less noise to find key patterns in the data (all weather stations per year)
@@ -152,6 +165,11 @@ This CNN Model Confusion Matrix below shows 4 weather classes: 0) cloudy 1) rain
 
 ### GANs(Generative Adversarial Network) ________________________________________________________
 <img src="assets/ML/GAN_pic.png" alt="GAN Pic" style="width: 100px; height: auto;">  
+
+- GANs can create artificial data (text & images).  This model uses two different neural networks working against eachother.
+  - Generator: creates data based on real inputs
+  - Discriminator: gets samples of real * artificial data, and then tries to determine which is which.
+  - The generator then takes the results & attempts to amke better artificial data before the whole process is repeated.  In this way, the two adversarial networks work against eachopther to improve.
 
 - Determine safest places to live in the future:
   - Use two adversarial neural networks working against each other
