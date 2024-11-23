@@ -164,26 +164,26 @@ This CNN Model Confusion Matrix below shows 4 weather classes: 0) cloudy 1) rain
 
 
 ### GANs(Generative Adversarial Network) ________________________________________________________
-<img src="assets/ML/GAN_pic.png" alt="GAN Pic" style="width: 100px; height: auto;">  
+<img src="assets/ML/GAN_pic.png" alt="GAN Pic" style="width: 300px; height: auto;">  
 
 - GANs can create artificial data (text & images).  This model uses two different neural networks working against eachother.
   - Generator: creates data based on real inputs
-  - Discriminator: gets samples of real * artificial data, and then tries to determine which is which.
-  - The generator then takes the results & attempts to amke better artificial data before the whole process is repeated.  In this way, the two adversarial networks work against eachopther to improve.
+  - Discriminator: gets samples of real & artificial data, and then tries to determine which is which.
+  - The generator takes the results & attempts to make better artificial data before the whole process is repeated.  In this way, the two adversarial networks work against eachother to improve.
 
 - Determine safest places to live in the future:
   - Use two adversarial neural networks working against each other
      – generator (creates data) & Discriminator (samples of real & artificial, discriminating which is real).
   - Can create artificial data (text & images)
  
--  Use Random Forest / Decision Trees (for 2010s) to use predicted weather conditions to determine regional safety. Use the identified features within top locations to gauge future weather predictions.
-  - First, narrow down the top locations.
-  - Then, look at their top features.
+- Use Random Forest / Decision Trees (for 2010s) to use predicted weather conditions to determine regional safety. Use the identified features within top locations to gauge future weather predictions.
+   - First, narrow down the top locations.
+   - Then, look at their top features.
 
 <img src="assets/ML/feature_importance_bar_2010s copy.jpg" alt="Feature bar chart" style="width: 700px; height: auto;">  
 <img src="assets/ML/feature_importance_bar_Madrid copy 2.png" alt="Feature bar chart (madrid)" style="width: 700px; height: auto;"> 
 
-SO, we are now looking specifically at Madrid, Ljubljana, & Munchenb (top 3 stations from top bar chart) & focusing on the specific features identified from bottom chart: maximum temperatures, mean temperatures, and global radiation.
+SO, we are now looking specifically at Madrid, Ljubljana, & Munchenb (top 3 stations from top bar chart) & focusing on the specific features identified from the bottom chart: maximum temperatures, mean temperatures, and global radiation.
 
 I ran through the GAN and got an image result of the weather prediction.  Below is an example of this incorrect weather prediction:
 <img src="assets/ML/incorrect_pred.png" alt="incorrect prediction" style="width: 400px; height: auto;">   <img src="assets/ML/woman_weather.png" alt="Feature bar chart" style="width: 190px; height: auto;">
@@ -193,25 +193,26 @@ I ran through the GAN and got an image result of the weather prediction.  Below 
 
 ## Major Insights: 
 - **Supervised and Unsupervised Machine Learning models can make accurate weather predictions**
-   - This study has shown slight temperature increase over time, and has potential to generalize to the rest of the world
+   - This study has shown slight temperature increase over time, and has potential to generalize to the rest of the world.
 - **KNN (K-Nearest Neighbor) model was the best choice** for unsupervised method (88% accuracy, much higher when compared with the other two).
   - ANN (Artificial Neural Network) has potential to produce a more complete depiction of the data, presuming adjustments are made when eliciting this model as long as there is a good understanding of the model and how to manipulate it for best outcomes.
-  - Decision Tree was not useful as the data was too deep and complex for a meaningful insight, nor was RNN due to its low accuracy rate and lack of insightful information. These algorithm may run better on sections of data.
+  - Decision Tree was not useful as the data was too deep and complex for a meaningful insight, nor was RNN useful due to its low accuracy rate and lack of insightful information. These algorithm may run better on sections of data instead of the whole.
 - **Random Forest Algorithms are highly accurate and provide useful breakdown of data** to pinpoint weather data features and top locations
-  - Dendrograms are useful in finding outliers or extreme weather events (single) and for finding season trends year round (complete).
+  - Dendrograms are useful in finding outliers or extreme weather events (single method) and for finding season trends year round (complete method).
     
 
 ## Recommendations:
 - **Prune Decision Tree data** to reach a better conclusion and avoid overfitting.
-- **Run more iterations on ANN model** to find more options for training the model to find more optimal variables.
-   Rule out if Sonnblick’s 100% accuracy was due to overfitting or data error
-- Make adjustments within the weather data
-  - **Further clean/check for errors**: as in the case of Valencia showing no variability in min/max/mean temps for the year chosen in this analysis
-  - Incorporate more complete data: **Include more descriptions features that encompass ‘pleasant’ vs. ‘unpleasant’**.
+- **Run more iterations on the ANN model** to find more options for training the model to find more optimal variables.
+    - Rule out if Sonnblick’s 100% accuracy was due to overfitting or data error.
+- Make adjustments within the weather data.
+  - **Further clean/check for errors**: as in the case of Valencia showing no variability in min/max/mean temps for the year chosen in this analysis.
+  - Incorporate more complete data: **Include more description features to appropriately define ‘pleasant’ vs. ‘unpleasant’ weather conditions**, as interpretations of these classifications are likley to vary across certain regions.
   - **Separate locations into hot/cold regions to eliminate cultural bias**, particularly in perception of what is pleasant vs. unpleasant
+    - Someone exposed regularly to freezing temps might interpret a 40 degree day as 'unpleasant' compared to someone else in a tropic region, who might call 40 degree temps 'unpleasant'.
 - **Combine supervised and unsupervised algorithms for best results**.
   - **Use Random Forest to narrow down the data features** (either by location or year). Create subsets of data on these important variables. Then, run those through a CNN to produce
-higher accuracy. Then, use final results to plug into a GAN to generate more realistic artificial results.
+higher accuracy. Use final results of these iterations to plug into a GAN to generate more realistic 'artificial' results, for optimal weather predictions.
 - **Increase sample size to other parts of the world** besides Europe and run the algorithms again to compare and see if these methods can be used as a generalization for world data.
 
 ***
