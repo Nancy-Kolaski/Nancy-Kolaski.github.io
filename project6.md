@@ -1,4 +1,4 @@
- <a href="/">Back to Main Page</a> 
+ <a href="/">Home</a> 
 
 ***
 
@@ -12,7 +12,7 @@
 ## Introduction:
 GameCo is a video game company that wants to develop new games and establish better marketing strategies. Data analysis looked at different variables that impact sales such as genre/types of games, game platforms, publishers, sales across time (historical to 2016), and sales across geographical regions (North America, Europe, & Japan). The current understanding is that video game sales across global regions of Europe, North America, and Japan generally stay the same over time.  GameCo is investigating to make sure their assumption is correct prior to moving forward with further marketing strategies.
 
-This was an CareerFoundry assignment with the project breif outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Video Games Project Breif copy.pdf" target="_blank">here</a>.
+This was an CareerFoundry assignment with the project brief outline included <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/assets/Project%20Briefs/Video Games Project Breif copy.pdf" target="_blank">here</a>.
 
 
 ## Goal:
@@ -57,28 +57,28 @@ This data set covered historical video games sales (for games that sold more tha
 
 - North America has historically dominated sales across regions up until 2016, with a higher percentage rate of sales for all genres except for role-playing.
 -  Role-playing games have a higher percentage of sales coming from Japan.  This is interesting to observe as Japan has the lowest percentage rate of all regions, except for this single domain throughout history.
--  Knowing the strong history of role-playing game preference for Japan, it would be wise to target this region with role-playing and action game advertisements (taking into account the data from previous bar charts)
+-  Knowing the strong history of role-playing game preference for Japan, it would be wise to target this region with role-playing and action game advertisements (taking into account the data from previous bar charts).
 
 <img src="assets/Gameco/regional_percent_genre(JP).png" alt="region percent" style="width: 800px; height: auto;">  
 
 - Platform Sales were highest for Nintendo PS4 in 2016!
-  - important to note as sales are declining globally the past several years
+  - This is important to note as sales are declining globally the past several years
   
 <img src="assets/Gameco/2016_platform_sales.png" alt="region platform" style="width: 800px; height: auto;">  
 
 ## Main Insights:
 
 ### What else is happening?
-- There has been a recent shift in sales trends.  European sales are on the rise. Look at the percentage of sales distributed for 2016.  Europe is bringing in 27% of sales and North America is bringing in 23% of sales.  **This is the first year in history that Europe has generated more sales than North America**. This is an extremely important insight!
+- There has been a recent shift in sales trends.  European sales are on the rise. Look at the percentage of sales distributed for 2016.  Europe is bringing in 27% of sales and North America is bringing in 23% of sales.  **This is the first year in history that Europe has generated more sales than North America**. This is an extremely important insight!  Marketing strategoes should be adjusted accordingly.
 
 <img src="assets/Gameco/region_percent.png" alt="region percent" style="width: 800px; height: auto;">  
 
 ### What does this mean?  What insights did we gain? 
 - Gameco’s sales for video games are made primarily in North American region, however all sales started dropping from 2010 to 2016.
-- Europe has started to bring in more sales percentages than all regions including North America for the first time!  It is likely that this trend can continue.
-- Majority of video game sales sold globally are action games.
-- In addition to this, North America generates more sales in shooting and sports games
-- While Japan generates more sales in role-playing games.
+- Europe has started to bring in more sales percentages than all regions, including North America for the first time!  It is likely that this trend can continue.
+- Majority of video game sales sold globally are 'action' games.
+- In addition to this, North America generates more sales in 'shooting' and 'sports' games
+- While Japan generates more sales in 'role-playing' games.
 - Nintendo’s PlayStation generated the most sales in 2016 for all regions.
 
 ### Gameco now knows if we don't do something different, global sales will continue to nose dive!  
@@ -98,6 +98,6 @@ and could potentially continue to be a top consumer of GameCo video games in the
 
 ***
 
-<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> 
+<a href="#top">Back to Top</a> | <a href="/">Home</a> 
 
 
