@@ -157,7 +157,6 @@ Thank you for your time. Please reach out: nancykolaski@gmail.com
   <img src="assets/LI.avif" alt="Logo" width="30" height="30">
 </a> 
 &bull; <a href="/RESUME_no%23.pdf" target="_blank"> <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30"></a>
-</a> 
 &bull; <a href="https://public.tableau.com/app/profile/nancy.kolaski/vizzes/">
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">  </a> 
 
