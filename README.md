@@ -21,6 +21,9 @@
 &bull; <a href="https://public.tableau.com/app/profile/nancy.kolaski/vizzes/">
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">   
 
+<a href="/RESUME_no#.pdf" target="_blank">Download PDF</a>
+
+
 ***
 <a id="About Me"></a>
 # About Me  
