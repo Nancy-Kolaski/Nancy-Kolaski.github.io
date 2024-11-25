@@ -69,6 +69,10 @@
 ...or scroll down to view each project:
 
 ***
+<a href="/NK Data Analytics Portfolio.pdf" target="_blank">
+  <img src="assets/portfolio.png" alt="Contact Me" width="30" height="30">
+</a>
+
 
 [<img src="assets/insta.jpeg" alt="Project Image" style="width: 650px; height: auto;">](project1.md)
 
