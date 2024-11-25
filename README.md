@@ -15,7 +15,7 @@
 &bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
   <img src="assets/LI.avif" alt="Logo" width="30" height="30">
 </a> 
-&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/RESUME_no#.docx">
+&bull; <a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/RESUME_no#.pdf">
   <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30">
 </a>
 &bull; <a href="https://public.tableau.com/app/profile/nancy.kolaski/vizzes/">
