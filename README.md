@@ -22,6 +22,7 @@
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">   
 
 
+<a href="/RESUME_no#.pdf" target="_blank"> <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30"></a>
 
 
 
@@ -62,7 +63,6 @@
 # Projects: 
 <a id="View My Complete Portfolio"></a>
 ### View My Complete Portfolio (pdf) by cicking the link below: 
-<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf"> <img src="assets/portfolio.png" alt="Logo" width="150" height="50"> </a>
 
 <a href="/NK Data Analytics Portfolio.pdf" target="_blank"><img src="assets/portfolio.png" alt="Contact Me" width="150" height="50"></a>
 
