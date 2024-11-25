@@ -164,9 +164,6 @@ Thank you for your time. Please reach out: nancykolaski@gmail.com
 
 ---
 
-<a href="https://github.com/Nancy-Kolaski/Nancy-Kolaski.github.io/blob/main/NK Data Analytics Portfolio.pdf">
-<img src="assets/portfolio.png" alt="Logo" width="200" height="75">
-</a>
 
  <a href="/NK Data Analytics Portfolio.pdf" target="_blank"><img src="assets/portfolio.png" alt="Contact Me" width="200" height="75"></a>
 
