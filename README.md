@@ -153,7 +153,7 @@ Thank you for your time. Please reach out: nancykolaski@gmail.com
 </a> 
 &bull; <a href="https://github.com/Nancy-Kolaski"> <img src="assets/github-logo.jpeg" alt="Logo" width="30" height="30">
 </a>
-&bull; <a href="https://www.linkedin.com/in/nancy-kolaski-040b222b0/">
+&bull; <a href="https://www.linkedin.com/in/nancy-kolaski/">
   <img src="assets/LI.avif" alt="Logo" width="30" height="30">
 </a> 
 &bull; <a href="/RESUME_no%23.pdf" target="_blank"> <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30"></a>
