@@ -22,7 +22,7 @@
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">   
 
 
-<a href="/RESUME_no#.pdf" target="_blank"> <img src="assets/resume_pic.webp" alt="Contact Me" width="30" height="30"></a>
+<a href="/RESUME_no#.pdf" target="_blank"> <img src="resume_pic.webp" alt="Contact Me" width="30" height="30"></a>
 
 
 
