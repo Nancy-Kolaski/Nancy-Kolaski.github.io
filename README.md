@@ -22,6 +22,9 @@
  <img src="assets/t_logo.png" alt="Logo" width="30" height="30">   
 
 <a href="/RESUME_no#.pdf" target="_blank">Download PDF</a>
+<a href="/NK Data Analytics Portfolio.pdf" target="_blank">Download PDF</a>
+
+
 
 
 ***
