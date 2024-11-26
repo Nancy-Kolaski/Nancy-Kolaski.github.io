@@ -1,4 +1,4 @@
- <a href="/">Home</a> | [Next](project6.md#projec6)
+ <a href="/">Home</a> | [Next Project](project6.md#projec6)
 
 
 ***
