@@ -1,4 +1,4 @@
- <a href="/">Back to Main Page</a> | [Continue to next project](project6.md#projec6)
+ <a href="/">Home</a> | [Next](project6.md#projec6)
 
 
 ***
@@ -217,6 +217,6 @@ higher accuracy. Use final results of these iterations to plug into a GAN to gen
 
 ***
 
-<a href="#top">Back to Top</a> | <a href="/">Back to Main Page</a> 
+<a href="#top">Back to Top</a> | <a href="/">Home</a> 
 
 
