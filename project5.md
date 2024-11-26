@@ -217,6 +217,6 @@ higher accuracy. Use final results of these iterations to plug into a GAN to gen
 
 ***
 
-<a href="#top">Back to Top</a> | <a href="/">Home</a> 
+<a href="#top">Back to Top</a> | <a href="/">Home</a> | [Next Project](project6.md#projec6)
 
 
