@@ -44,6 +44,7 @@ This analysis utilized public databases from CDC & US Census Bureau consisting o
 - Excel
 - Power Point
 - Tableau
+  
 <img src="assets/Influenza tools.png" alt="influenza tools pic" style="width: 150px; height: auto;">
 
 ---
