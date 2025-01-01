@@ -81,7 +81,7 @@ The second scatterplot looks only within the vulnerable (65+ years) populations.
 
 This line chart shows a trend of winter months within 2009-2017, specifically January, but higher flu deaths notable in December through March. 
 
-<img src="assets/seasonality_pic.png" alt="seasonality pic" style="width: 600px; height: auto;">
+<img src="assets/seasonality_pic.png" alt="seasonality pic" style="width: 600px; height: auto;"> 
 
 This bar chart below shows a glimpse into the last three years (2015-2017); with January, February, & March ranking top months for flu related deaths.
 
