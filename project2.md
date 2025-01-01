@@ -85,7 +85,7 @@ This line chart shows a trend of winter months within 2009-2017, specifically Ja
 
 This bar chart below shows a glimpse into the last three years (2015-2017); with January, February, & March ranking top months for flu related deaths.
 
-<img src="assets/month bar.png" alt="month bar" style="width: 600px; height: auto;">
+<img src="assets/month_bar!.png" alt="month bar" style="width: 600px; height: auto;">
 
 ***
 
