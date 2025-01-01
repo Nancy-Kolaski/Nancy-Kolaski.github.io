@@ -99,7 +99,8 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
   - 5 states with highest vulnerable population count:
     - California, New York, Texas, Florida, Pennsylvania
 - States with higher census bring higher death counts.
-- More influenza related deaths occur in the winter months (December - March). January consistently has the highest death counts.
+- More influenza related deaths occur in the winter months (December - March).
+  - January consistently has the highest death counts.
   
 ### **Recommendations:**
 - Top 5 High Risk States to prioritize staffing needs:
