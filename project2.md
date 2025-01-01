@@ -112,7 +112,7 @@ This bar chart below shows a glimpse into the last three years (2015-2017); with
 - Seasonality:
   - Concentrated staffing needed during January mostly, along with winter months (Dec-March)
 - Further analysis needed on:
-  - Vaccination rates and their impact on death rates on the vulnerable and non-vulnerable populations (65+ vs below 65 years old)
+  - Vaccination rates and their impact on death rates on the vulnerable and non-vulnerable populations (65+ vs below 65 years old).
   - Inclusion of other contributors to our vulnerable population, including those who are under 5 years old, are pregnant, or who have other comorbidities.
 
 
