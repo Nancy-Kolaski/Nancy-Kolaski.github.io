@@ -93,7 +93,7 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 
 
 # Recommendations Review:
-* Increase Ads during mid week (Tuesdays & Wednesdays)
+* Increase Ads during mid week (Tuesdays & Wednesdays).
 * Schedule Ads between 12pm and 3pm, the busiest hours for placing orders.
 * Schedule Ads for higher priced items in the early morning hours between 2-3am.
 * Advertise snacks all hours.
@@ -102,7 +102,7 @@ They make up: 1) the most **regular** customers, 2) majority of **new** customer
 * Keep $5 price range groupings as the majority of products are between $5-$15.
 * Place promotional Ads for organic items in highly populated banana section and/or organic food sections.
 * Keep organic foods well stocked and in good shape to maintain the integrity of these sales.
-* Recommend targeting 30s-40s, young family groups in advertisements - busy lifestyles (prepared food, quick snacks, food on-the-go)
+* Recommend targeting 30s-40s, young family groups in advertisements - busy lifestyles (prepared food, quick snacks, food on-the-go).
 * Recommend increasing advertisements in southern regions to maintain integrity of their higher sales, as well as promotion of Instacart to the other regions to gain more customers (keeping in mind these variables and target populations in the types of Ads used).
 
 ------------------------
