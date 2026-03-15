@@ -42,9 +42,9 @@ Data Visualization & Storytelling	Jupyter Notebooks	Adaptability & Organization
 Database Management	GitHub (Version Control)	Spanish Proficiency (Bilingual)
 --------------------------------------
 
-| <center>Analytical Skills</center>                                 | <center>Professional Skills</center>           | <center>Tools</center>           |
+| <center>Data Analytics</center>                                 | <center>Technical Tools</center>           | <center>Professional Skills</center>           |
 |---------------------------------------------------------------------|------------------------------------------------|----------------------------------|
-|   <center>  Data Cleaning & Prepration </center>                   |     <center>  Problem Solving  </center>      |     <center>  SQL</center>      |
+|   <center>  Data Cleaning & Prepration </center>                   |     <center>  SQL(Querying & Joining)  </center>      |     <center> Problem Solving & Critical Thinking</center>      |
 |   <center>  Exploratory & Descriptive Analysis  </center>          |     <center>  Communication </center>         |     <center>  Python</center>   |
 |   <center>  Integrating & Transforming Data  </center>             |     <center>  Collaboration  </center>        |     <center>  Excel</center>    |
 |   <center>  Querying, Filtering, Sorting, Grouping</center>        |     <center>  Presentatiion Skills</center>   |     <center>  Tableau</center>  |
