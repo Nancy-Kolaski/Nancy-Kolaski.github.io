@@ -35,6 +35,16 @@
   </tr>
 </table>
 
+------------------
+| <h3>Data Analytics</h3> | <h3>Technical Tools</h3> | <h3>Professional Skills</h3> |
+| :--- | :--- | :--- |
+| Data Cleaning & Preparation | SQL (Querying & Joining) | Problem Solving & Critical Thinking |
+| Exploratory Data Analysis (EDA) | Python (Pandas, NumPy) | Stakeholder Communication |
+| Statistical Analysis & Hypothesis Testing | Tableau (Dashboards & Viz) | Cross-functional Collaboration |
+| Machine Learning (Supervised/Unsupervised) | Excel (Advanced Formulas/VLOOKUP) | Technical Documentation & Reporting |
+| Data Visualization & Storytelling | Jupyter Notebooks | Adaptability & Organization |
+| Database Management | GitHub (Version Control) | Spanish Proficiency |
+
 # Skills:
 --------------------------------------
 
