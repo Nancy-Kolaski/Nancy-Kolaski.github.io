@@ -42,6 +42,7 @@
 |   <center>  Machine Learning (Supervised/Unsupervised) </center>        |     <center>  Excel (Advanced Formulas/VLOOKUP)</center>   |     <center>  Technical Documentation & Reporting </center>  |
 |   <center>  Data Visualization & Storytelling </center>  |   <center> Jupyter Notebooks </center>   |  <center> Adaptability & Organization  </center>          |          
 |   <center>  Database Management  </center>     |     <center>  GitHub (Version Control) </center>  |   <center> Spanish Proficiency  </center>             |                       
+
  <img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
 --------------------------------------
 ***
