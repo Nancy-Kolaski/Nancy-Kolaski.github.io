@@ -27,16 +27,16 @@
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 400px; height: auto;">
 
-##### With a background in inpatient therapy and a lifelong fascination with neurology, I’ve spent my career decoding the complexities of the human brain. Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us
+### With a background in inpatient therapy and a lifelong fascination with neurology, I’ve spent my career decoding the complexities of the human brain. Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us
 
 
 
 # Skills:
 --------------------------------------
 
-|## <center>Data Analytics</center>              | <center>Technical Tools</center>           | <center>Professional Skills</center>           |
+| <center>Data Analytics</center>              | <center>Technical Tools</center>           | <center>Professional Skills</center>           |
 |---------------------------------------------------------------------|------------------------------------------------|----------------------------------|
-|   <center>  Data Cleaning & Prepration </center>    |     <center>  #SQL (Querying & Joining)  </center>      |     <center> Problem Solving & Critical Thinking</center>      |
+|   <center>  Data Cleaning & Prepration </center>    |     <center>  SQL (Querying & Joining)  </center>      |     <center> Problem Solving & Critical Thinking</center>      |
 |   <center>  Exploratory Data Analysis (EDA)  </center>  |     <center>  Python (Pandas, NumPy) </center>  |  <center>  Stakeholder Communication</center>   |
 |   <center>  Statistical Analysis & Hypothesis Testing  </center> |     <center> Tableau (Dashboards & Viz) </center>        |     <center>  Cross-functional Collaboration</center>    |
 |   <center>  Machine Learning (Supervised/Unsupervised) </center>        |     <center>  Excel (Advanced Formulas/VLOOKUP)</center>   |     <center>  Technical Documentation & Reporting </center>  |
