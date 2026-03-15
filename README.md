@@ -39,13 +39,13 @@ Data Visualization & Storytelling	Jupyter Notebooks	Adaptability & Organization
 Database Management	GitHub (Version Control)	Spanish Proficiency (Bilingual)
 --------------------------------------
 
-| <center>Data Analytics</center>                  | <center>Technical Tools</center>           | <center>Professional Skills</center>           |
+| <center>Data Analytics</center>              | <center>Technical Tools</center>           | <center>Professional Skills</center>           |
 |---------------------------------------------------------------------|------------------------------------------------|----------------------------------|
-|   <center>  Data Cleaning & Prepration </center>                   |     <center>  SQL(Querying & Joining)  </center>      |     <center> Problem Solving & Critical Thinking</center>      |
-|   <center>  Exploratory Data Analysis (EDA)  </center>          |     <center>  Python (Pandas, NumPy) </center>         |     <center>  Stakeholder Communication</center>   |
-|   <center>  Statistical Analysis & Hypothesis Testing  </center>             |     <center> Tableau (Dashboards & Viz) </center>        |     <center>  Cross-functional Collaboration</center>    |
+|   <center>  Data Cleaning & Prepration </center>    |     <center>  SQL(Querying & Joining)  </center>      |     <center> Problem Solving & Critical Thinking</center>      |
+|   <center>  Exploratory Data Analysis (EDA)  </center>  |     <center>  Python (Pandas, NumPy) </center>  |  <center>  Stakeholder Communication</center>   |
+|   <center>  Statistical Analysis & Hypothesis Testing  </center> |     <center> Tableau (Dashboards & Viz) </center>        |     <center>  Cross-functional Collaboration</center>    |
 |   <center>  Machine Learning (Supervised/Unsupervised) </center>        |     <center>  Excel (Advanced Formulas/VLOOKUP)</center>   |     <center>  Technical Documentation & Reporting </center>  |
-|   <center>  Data Visualization & Storytelling </center>              |     <center> Jupyter Notebooks </center>          |          
+|   <center>  Data Visualization & Storytelling </center>              |     <center> Jupyter Notebooks </center>          |  <center> Jupyter Notebooks </center>          |          
 |   <center>  Adaptability & Organization  </center>     |     <center>  Database Management </center>    |
 |   <center>  GitHub (Version Control)  </center>             |                       
 |   <center>  Spanish Proficiency (Bilingual)  </center>                           |                       
