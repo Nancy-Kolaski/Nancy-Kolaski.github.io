@@ -44,16 +44,11 @@
 |   <center>  Database Management  </center>     |     <center>  GitHub (Version Control) </center>  |   <center> Spanish Proficiency  </center>             |                       
                     
 
-
-
-
-
---------------------------------------
              |                       
 
 
-<img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
-
+ <center> <img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
+--------------------------------------
 ***
 
 <a id="Projects"></a>
