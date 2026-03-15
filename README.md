@@ -31,14 +31,9 @@
 
 ### With a background in inpatient therapy and a lifelong fascination with neurology, I’ve spent my career decoding the complexities of the human brain.
 
-**Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us.**
+### Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us.**
 
 
-      <img src="assets/profile.jpeg" alt="About me" style="width: 100%; height: auto;">
-    </td>
-    <td style="vertical-align: top;">
-      <h3>With a background in inpatient therapy and a lifelong fascination with neurology, I’ve spent my career decoding the complexities of the human brain. <h3><p><b>Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us.</p>
-   
 
 ----
 
