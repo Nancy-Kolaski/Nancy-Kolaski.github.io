@@ -45,10 +45,10 @@ Database Management	GitHub (Version Control)	Spanish Proficiency (Bilingual)
 |   <center>  Exploratory Data Analysis (EDA)  </center>  |     <center>  Python (Pandas, NumPy) </center>  |  <center>  Stakeholder Communication</center>   |
 |   <center>  Statistical Analysis & Hypothesis Testing  </center> |     <center> Tableau (Dashboards & Viz) </center>        |     <center>  Cross-functional Collaboration</center>    |
 |   <center>  Machine Learning (Supervised/Unsupervised) </center>        |     <center>  Excel (Advanced Formulas/VLOOKUP)</center>   |     <center>  Technical Documentation & Reporting </center>  |
-|   <center>  Data Visualization & Storytelling </center>              |     <center> Jupyter Notebooks </center>          |  <center> Jupyter Notebooks </center>          |          
-|   <center>  Adaptability & Organization  </center>     |     <center>  Database Management </center>    |
-|   <center>  GitHub (Version Control)  </center>             |                       
-|   <center>  Spanish Proficiency (Bilingual)  </center>                           |                       
+|   <center>  Data Visualization & Storytelling </center>              |     <center> Jupyter Notebooks </center>          |  <center> Adaptability & Organization  </center>          |          
+|   <center>  Database Management  </center>     |     <center>  GitHub (Version Control) </center>    |
+|   <center> Spanish Proficiency  </center>             |                       
+                    
 
 
 
