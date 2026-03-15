@@ -36,7 +36,7 @@
 
 # Skills:
 
-| **DATA ANALYTICS**| **TECHNICAL TOOLS** | **PROFESSIONAL SKILLS**|
+| **DATA ANALYTICS**| **TECHNICAL TOOLS** | **PROFESSIONAL**|
 | :--- | :--- | :--- |
 | Data Cleaning & Preparation | SQL (Querying & Joining) | Problem Solving & Critical Thinking |
 | Exploratory Data Analysis (EDA) | Python (Pandas, NumPy) | Stakeholder Communication |
