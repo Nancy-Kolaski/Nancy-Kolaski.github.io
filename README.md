@@ -27,10 +27,7 @@
 
 <img src="assets/profile.jpeg" alt="About me" style="width: 400px; height: auto;">
 
-##### I am a data analyst with a background in healthcare, inpatient therapy.  My passion has always been in neurology since the brain uncovers the mysteries that define people & humanity.  I'm excited to branch into this new role with a focus of studying data to uncover mysteries in a different way, revealing truths of the world. 
-
-##### My curious nature has led me towards this career change with an eagerness to engage in the world of data analytics.  I have completed my certification through CareerFoundry, and I'm excited to put my skills to work!  Scroll down to see my projects and skill set.
-
+##### With a background in inpatient therapy and a lifelong fascination with neurology, I’ve spent my career decoding the complexities of the human brain. Today, I apply that same curiosity to data. As a Data Analyst certified by CareerFoundry, I specialize in uncovering the hidden patterns and 'mysteries' within datasets to reveal actionable truths about the world around us
 
 
 
@@ -56,7 +53,7 @@
 <a id="Projects"></a>
 # Projects: 
 <a id="View My Complete Portfolio"></a>
-### View My Complete Portfolio (pdf) by cicking the link below: 
+### View My Complete Portfolio (pdf) by clicking the link below: 
 
 <a href="/NK Data Analytics Portfolio.pdf" target="_blank"><img src="assets/portfolio.png" alt="Contact Me" width="150" height="50"></a>
 
