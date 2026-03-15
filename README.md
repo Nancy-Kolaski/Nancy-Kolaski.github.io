@@ -33,6 +33,14 @@
 
 # Skills:
 
+Data Analytics	Technical Tools	Professional & Soft Skills
+Data Cleaning & Preparation	SQL (Querying & Joining)	Problem Solving & Critical Thinking
+Exploratory Data Analysis (EDA)	Python (Pandas, NumPy)	Stakeholder Communication
+Statistical Analysis & Hypothesis Testing	Tableau (Dashboards & Viz)	Cross-functional Collaboration
+Machine Learning (Supervised/Unsupervised)	Excel (Advanced Formulas/VLOOKUP)	Technical Documentation & Reporting
+Data Visualization & Storytelling	Jupyter Notebooks	Adaptability & Organization
+Database Management	GitHub (Version Control)	Spanish Proficiency (Bilingual)
+
 
 | <center>Analytical Skills</center>                                 | <center>Professional Skills</center>           | <center>Tools</center>           |
 |---------------------------------------------------------------------|------------------------------------------------|----------------------------------|
