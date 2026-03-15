@@ -38,6 +38,14 @@
 ----
 
 # Skills:
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #d0d7de;"> <th style="border: 2px solid #333; padding: 10px;"><h3>Data Analytics</h3></th>
+      <th style="border: 2px solid #333; padding: 10px;"><h3>Technical Tools</h3></th>
+      <th style="border: 2px solid #333; padding: 10px;"><h3>Professional Skills</h3></th>
+    </tr>
+  </thead>
+
 | <h3>Data Analytics</h3> | <h3>Technical Tools</h3> | <h3>Professional Skills</h3> |
 | :--- | :--- | :--- |
 | Data Cleaning & Preparation | SQL (Querying & Joining) | Problem Solving & Critical Thinking |
