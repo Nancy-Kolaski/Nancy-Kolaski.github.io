@@ -49,6 +49,48 @@
 | Database Management | GitHub (Version Control) | Spanish Proficiency |
 
  <img src="assets/tools-logos.png" alt="tools logos" style="width: 600px; height: auto">
+------
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color: #d0d7de;"> <th style="border: 2px solid #333; padding: 10px;"><h3>Data Analytics</h3></th>
+      <th style="border: 2px solid #333; padding: 10px;"><h3>Technical Tools</h3></th>
+      <th style="border: 2px solid #333; padding: 10px;"><h3>Professional Skills</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Data Cleaning & Preparation</td>
+      <td style="border: 1px solid #333; padding: 8px;">SQL (Querying & Joining)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Problem Solving & Critical Thinking</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Exploratory Data Analysis (EDA)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Python (Pandas, NumPy)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Stakeholder Communication</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Statistical Analysis & Hypothesis Testing</td>
+      <td style="border: 1px solid #333; padding: 8px;">Tableau (Dashboards & Viz)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Cross-functional Collaboration</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Machine Learning (Supervised/Unsupervised)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Excel (Advanced Formulas/VLOOKUP)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Technical Documentation & Reporting</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Data Visualization & Storytelling</td>
+      <td style="border: 1px solid #333; padding: 8px;">Jupyter Notebooks</td>
+      <td style="border: 1px solid #333; padding: 8px;">Adaptability & Organization</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #333; padding: 8px;">Database Management</td>
+      <td style="border: 1px solid #333; padding: 8px;">GitHub (Version Control)</td>
+      <td style="border: 1px solid #333; padding: 8px;">Spanish Proficiency</td>
+    </tr>
+  </tbody>
+</table>
 
 ***
 
